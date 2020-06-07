@@ -51,3 +51,57 @@ data/general/荀子_-_Xunzi-解蔽.txt.json.csv: 0.3727304222357392
 data/general/文子_-_Wenzi-上仁.txt.json.csv: 0.37172404376085505
 data/general/鬼谷子_-_Gui_Gu_Zi-盛神法五龍.txt.json.csv: 0.3678021799522238
 data/daoist/Laozi_老子_Daodejing_道德經.txt.json.csv: 0.36632483996034826
+
+Top 25 most similar to Zhuangzi Qiwulun:
+data/daoist/Zhuangzi_莊子_Qiwulun_齊物論.txt.json.csv: 1.0
+data/general/莊子_-_Zhuangzi-齊物論.txt.json.csv: 0.9999273375450216
+data/general/莊子_-_Zhuangzi-大宗師.txt.json.csv: 0.4889620254182353
+data/general/莊子_-_Zhuangzi-知北遊.txt.json.csv: 0.4818336149039938
+data/general/莊子_-_Zhuangzi-徐無鬼.txt.json.csv: 0.44895829571110824
+data/general/莊子_-_Zhuangzi-人間世.txt.json.csv: 0.42934993950775613
+data/general/莊子_-_Zhuangzi-則陽.txt.json.csv: 0.4179061202246547
+data/general/莊子_-_Zhuangzi-田子方.txt.json.csv: 0.41569540625290474
+data/general/莊子_-_Zhuangzi-秋水.txt.json.csv: 0.40412528947270926
+data/general/莊子_-_Zhuangzi-天地.txt.json.csv: 0.39638592518516896
+data/general/莊子_-_Zhuangzi-寓言.txt.json.csv: 0.39603842250748633
+data/general/淮南子_-_Huainanzi-道應訓.txt.json.csv: 0.3956685937442514
+data/general/列子_-_Liezi-周穆王.txt.json.csv: 0.3844392092008624
+data/general/列子_-_Liezi-黃帝.txt.json.csv: 0.3712945309573827
+data/general/莊子_-_Zhuangzi-天運.txt.json.csv: 0.3709676563037847
+data/general/說苑_-_Shuo_Yuan-雜言.txt.json.csv: 0.36908210992099627
+data/general/莊子_-_Zhuangzi-山木.txt.json.csv: 0.3688740470045598
+data/general/列子_-_Liezi-說符.txt.json.csv: 0.36839120852732676
+data/general/列子_-_Liezi-天瑞.txt.json.csv: 0.3619060769448404
+data/general/文始真經_-_Wen_Shi_Zhen_Jing-六匕.txt.json.csv: 0.36037972653885053
+data/general/莊子_-_Zhuangzi-在宥.txt.json.csv: 0.3591314774434067
+data/general/莊子_-_Zhuangzi-達生.txt.json.csv: 0.35835542268383996
+data/general/莊子_-_Zhuangzi-天下.txt.json.csv: 0.357815330402407
+data/general/說苑_-_Shuo_Yuan-君道.txt.json.csv: 0.3504799166750514
+data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷二.txt.json.csv: 0.3499136132866887
+
+Top 25 most similar to Daodejing:
+data/daoist/Laozi_老子_Daodejing_道德經.txt.json.csv: 1.0
+data/general/道德經.txt.json.csv: 0.9999745093359473
+data/general/說苑_-_Shuo_Yuan-談叢.txt.json.csv: 0.6101032127719005
+data/general/淮南子_-_Huainanzi-詮言訓.txt.json.csv: 0.6087242183967703
+data/general/郭店_-_Guodian-老子甲.txt.json.csv: 0.5656290953494985
+data/general/淮南子_-_Huainanzi-泰族訓.txt.json.csv: 0.550832866636358
+data/general/文子_-_Wenzi-九守.txt.json.csv: 0.5463893473791537
+data/general/文子_-_Wenzi-道原.txt.json.csv: 0.5447301265379876
+data/general/淮南子_-_Huainanzi-氾論訓.txt.json.csv: 0.5439005715013646
+data/general/淮南子_-_Huainanzi-原道訓.txt.json.csv: 0.5425528948455516
+data/general/淮南子_-_Huainanzi-繆稱訓.txt.json.csv: 0.5343007919398299
+data/general/淮南子_-_Huainanzi-主術訓.txt.json.csv: 0.5171599195725354
+data/general/文子_-_Wenzi-自然.txt.json.csv: 0.5147235126424948
+data/general/文子_-_Wenzi-微明.txt.json.csv: 0.5038396398044744
+data/general/管子_-_Guanzi-形勢解.txt.json.csv: 0.5036171464355591
+data/general/禮記_-_Liji-中庸.txt.json.csv: 0.5006637979458192
+data/general/韓非子_-_Hanfeizi-解老.txt.json.csv: 0.4964042250275712
+data/general/淮南子_-_Huainanzi-兵略訓.txt.json.csv: 0.49140612536769107
+data/general/淮南子_-_Huainanzi-齊俗訓.txt.json.csv: 0.4835443556112361
+data/general/荀子_-_Xunzi-君道.txt.json.csv: 0.4795278319618954
+data/general/淮南子_-_Huainanzi-精神訓.txt.json.csv: 0.47456553932077516
+data/general/荀子_-_Xunzi-儒效.txt.json.csv: 0.4742639012835925
+data/general/文子_-_Wenzi-下德.txt.json.csv: 0.47030464211846057
+data/general/文子_-_Wenzi-上仁.txt.json.csv: 0.47008657080032357
+data/general/莊子_-_Zhuangzi-天道.txt.json.csv: 0.4698861196911192
