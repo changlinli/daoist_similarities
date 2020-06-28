@@ -8,6 +8,8 @@ filename = "data/daoist/Huainanzi_淮南子_chu_zhen_xun_俶真訓.txt.json.csv"
 
 characters_to_frequency = {}
 
+number_of_texts_to_compare = 1000
+
 def retrieve_characters_to_frequency(input_file):
     characters_to_frequency = {}
     with open(input_file, newline='') as csvfile:
@@ -155,12 +157,16 @@ for document, tf_idf_score in tf_idf_scores.items():
 
 sorted_similarities_to_huainanzi = {k: v for k, v in sorted(similarities_to_default.items(), key=lambda item: item[1])}
 
-top_25_huainanzi = take(25, reversed(list(sorted_similarities_to_huainanzi.items())))
+top_25_huainanzi = take(number_of_texts_to_compare, reversed(list(sorted_similarities_to_huainanzi.items())))
 
-print("Top 25 most similar to Huainanzi:")
+print(f"Top {number_of_texts_to_compare} most similar to Huainanzi:")
 
 for filename, similarity_score in top_25_huainanzi:
     print(filename + ": " + repr(similarity_score))
+
+with open('huainanzi_chuzhenxun_similarities.txt', 'w') as fp:
+    for filename, similarity_score in top_25_huainanzi:
+        fp.write(f'{filename}: {similarity_score}\n')
 
 #######
 # Guanzi
@@ -178,12 +184,16 @@ for document, tf_idf_score in tf_idf_scores.items():
 
 sorted_similarities_to_guanzi = {k: v for k, v in sorted(similarities_to_guanzi.items(), key=lambda item: item[1])}
 
-top_25_guanzi = take(25, reversed(list(sorted_similarities_to_guanzi.items())))
+top_25_guanzi = take(number_of_texts_to_compare, reversed(list(sorted_similarities_to_guanzi.items())))
 
-print("Top 25 most similar to Guanzi:")
+print(f"Top {number_of_texts_to_compare} most similar to Guanzi:")
 
 for filename, similarity_score in top_25_guanzi:
     print(filename + ": " + repr(similarity_score))
+
+with open('guanzi_neiye_smilarities.txt', 'w') as fp:
+    for filename, similarity_score in top_25_guanzi:
+        fp.write(f'{filename}: {similarity_score}\n')
 
 #######
 # Zhuangzi
@@ -201,12 +211,16 @@ for document, tf_idf_score in tf_idf_scores.items():
 
 sorted_similarities_to_benchmark = {k: v for k, v in sorted(similarities_to_benchmark.items(), key=lambda item: item[1])}
 
-top_25_similar_to_benchmark = take(25, reversed(list(sorted_similarities_to_benchmark.items())))
+top_25_similar_to_benchmark = take(number_of_texts_to_compare, reversed(list(sorted_similarities_to_benchmark.items())))
 
-print("Top 25 most similar to Zhuangzi Qiwulun:")
+print(f"Top {number_of_texts_to_compare} most similar to Zhuangzi Qiwulun:")
 
 for filename, similarity_score in top_25_similar_to_benchmark:
     print(filename + ": " + repr(similarity_score))
+
+with open('zhuangzi_qiwulun_smilarities.txt', 'w') as fp:
+    for filename, similarity_score in top_25_similar_to_benchmark:
+        fp.write(f'{filename}: {similarity_score}\n')
 
 #######
 # Daodejing
@@ -224,12 +238,16 @@ for document, tf_idf_score in tf_idf_scores.items():
 
 sorted_similarities_to_benchmark = {k: v for k, v in sorted(similarities_to_benchmark.items(), key=lambda item: item[1])}
 
-top_25_similar_to_benchmark = take(25, reversed(list(sorted_similarities_to_benchmark.items())))
+top_25_similar_to_benchmark = take(number_of_texts_to_compare, reversed(list(sorted_similarities_to_benchmark.items())))
 
-print("Top 25 most similar to Daodejing:")
+print(f"Top {number_of_texts_to_compare} most similar to Daodejing:")
 
 for filename, similarity_score in top_25_similar_to_benchmark:
     print(filename + ": " + repr(similarity_score))
+
+with open('daodejing_smilarities.txt', 'w') as fp_daodejing:
+    for filename, similarity_score in top_25_similar_to_benchmark:
+        fp_daodejing.write(f'{filename}: {similarity_score}\n')
 
 #distinct_characters = []
 
