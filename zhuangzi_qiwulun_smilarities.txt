@@ -1,1000 +1,1000 @@
-data/daoist/Zhuangzi_莊子_Qiwulun_齊物論.txt.json.csv: 1.0
-data/general/莊子_-_Zhuangzi-齊物論.txt.json.csv: 0.9999273375450216
-data/general/莊子_-_Zhuangzi-大宗師.txt.json.csv: 0.4889620254182353
-data/general/莊子_-_Zhuangzi-知北遊.txt.json.csv: 0.4818336149039938
-data/general/莊子_-_Zhuangzi-徐無鬼.txt.json.csv: 0.44895829571110824
-data/general/莊子_-_Zhuangzi-人間世.txt.json.csv: 0.42934993950775613
-data/general/莊子_-_Zhuangzi-則陽.txt.json.csv: 0.4179061202246547
-data/general/莊子_-_Zhuangzi-田子方.txt.json.csv: 0.41569540625290474
-data/general/莊子_-_Zhuangzi-秋水.txt.json.csv: 0.40412528947270926
-data/general/莊子_-_Zhuangzi-天地.txt.json.csv: 0.39638592518516896
-data/general/莊子_-_Zhuangzi-寓言.txt.json.csv: 0.39603842250748633
-data/general/淮南子_-_Huainanzi-道應訓.txt.json.csv: 0.3956685937442514
-data/general/列子_-_Liezi-周穆王.txt.json.csv: 0.3844392092008624
-data/general/列子_-_Liezi-黃帝.txt.json.csv: 0.3712945309573827
-data/general/莊子_-_Zhuangzi-天運.txt.json.csv: 0.3709676563037847
-data/general/說苑_-_Shuo_Yuan-雜言.txt.json.csv: 0.36908210992099627
-data/general/莊子_-_Zhuangzi-山木.txt.json.csv: 0.3688740470045598
-data/general/列子_-_Liezi-說符.txt.json.csv: 0.36839120852732676
-data/general/列子_-_Liezi-天瑞.txt.json.csv: 0.3619060769448404
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-六匕.txt.json.csv: 0.36037972653885053
-data/general/莊子_-_Zhuangzi-在宥.txt.json.csv: 0.3591314774434067
-data/general/莊子_-_Zhuangzi-達生.txt.json.csv: 0.35835542268383996
-data/general/莊子_-_Zhuangzi-天下.txt.json.csv: 0.357815330402407
-data/general/說苑_-_Shuo_Yuan-君道.txt.json.csv: 0.3504799166750514
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷二.txt.json.csv: 0.3499136132866887
-data/daoist/Huainanzi_淮南子_chu_zhen_xun_俶真訓.txt.json.csv: 0.3484166283666736
-data/general/淮南子_-_Huainanzi-俶真訓.txt.json.csv: 0.3482651454632737
-data/general/莊子_-_Zhuangzi-德充符.txt.json.csv: 0.34737994614158113
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷三.txt.json.csv: 0.34736806797589054
-data/general/莊子_-_Zhuangzi-天道.txt.json.csv: 0.34601344751482865
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷九.txt.json.csv: 0.34523352989973977
-data/general/道德經.txt.json.csv: 0.34514154859509655
-data/daoist/Laozi_老子_Daodejing_道德經.txt.json.csv: 0.3450371002509336
-data/general/淮南子_-_Huainanzi-人閒訓.txt.json.csv: 0.34230527830489477
-data/general/說苑_-_Shuo_Yuan-辨物.txt.json.csv: 0.34141460946622215
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷七.txt.json.csv: 0.3366751421356247
-data/general/荀子_-_Xunzi-儒效.txt.json.csv: 0.33628627369032615
-data/general/說苑_-_Shuo_Yuan-善說.txt.json.csv: 0.33563069762227704
-data/general/淮南子_-_Huainanzi-精神訓.txt.json.csv: 0.33227714565276445
-data/general/列子_-_Liezi-仲尼.txt.json.csv: 0.33227280493856587
-data/general/淮南子_-_Huainanzi-氾論訓.txt.json.csv: 0.33221908220256674
-data/general/說苑_-_Shuo_Yuan-敬慎.txt.json.csv: 0.33044544626787453
-data/general/淮南子_-_Huainanzi-繆稱訓.txt.json.csv: 0.3303731117812933
-data/general/淮南子_-_Huainanzi-說山訓.txt.json.csv: 0.326632486847559
-data/general/淮南子_-_Huainanzi-泰族訓.txt.json.csv: 0.3248421043290693
-data/general/說苑_-_Shuo_Yuan-權謀.txt.json.csv: 0.32237978936777195
-data/general/文子_-_Wenzi-微明.txt.json.csv: 0.3212690366264777
-data/general/說苑_-_Shuo_Yuan-反質.txt.json.csv: 0.31926940887030614
-data/general/列子_-_Liezi-楊朱.txt.json.csv: 0.3187452756712855
-data/general/莊子_-_Zhuangzi-讓王.txt.json.csv: 0.3178761615413203
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷六.txt.json.csv: 0.31773814072489825
-data/general/淮南子_-_Huainanzi-詮言訓.txt.json.csv: 0.316739076481412
-data/general/管子_-_Guanzi-白心.txt.json.csv: 0.3159965919457409
-data/general/列子_-_Liezi-力命.txt.json.csv: 0.31580798007299654
-data/general/荀子_-_Xunzi-大略.txt.json.csv: 0.31572741073666455
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷四.txt.json.csv: 0.31556776380360196
-data/general/莊子_-_Zhuangzi-至樂.txt.json.csv: 0.31516266241825464
-data/general/孟子_-_Mengzi-公孫丑下.txt.json.csv: 0.3147587538154382
-data/general/論語_-_The_Analects-子罕.txt.json.csv: 0.313240969373484
-data/general/莊子_-_Zhuangzi-盜跖.txt.json.csv: 0.3129881879553893
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷十.txt.json.csv: 0.31296665568963183
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷五.txt.json.csv: 0.3128490100277597
-data/general/新序_-_Xin_Xu-雜事五.txt.json.csv: 0.31214906268374837
-data/general/說苑_-_Shuo_Yuan-貴德.txt.json.csv: 0.3120486185955035
-data/general/說苑_-_Shuo_Yuan-尊賢.txt.json.csv: 0.31121222904943535
-data/general/淮南子_-_Huainanzi-原道訓.txt.json.csv: 0.309741846072754
-data/general/論衡_-_Lunheng-實知.txt.json.csv: 0.30951397049252655
-data/general/淮南子_-_Huainanzi-齊俗訓.txt.json.csv: 0.30908456108349647
-data/general/論衡_-_Lunheng-知實.txt.json.csv: 0.3089169680556548
-data/general/淮南子_-_Huainanzi-脩務訓.txt.json.csv: 0.3082248959608982
-data/general/孔子家語_-_Kongzi_Jiayu-五儀解.txt.json.csv: 0.3081448228841041
-data/general/說苑_-_Shuo_Yuan-指武.txt.json.csv: 0.3066014945392771
-data/general/禮記_-_Liji-中庸.txt.json.csv: 0.3060898565591934
-data/general/揚子法言_-_Yangzi_Fayan-問道卷第四.txt.json.csv: 0.3059083087990401
-data/general/說苑_-_Shuo_Yuan-談叢.txt.json.csv: 0.3042557129760683
-data/general/荀子_-_Xunzi-非相.txt.json.csv: 0.30361734547054586
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷八.txt.json.csv: 0.3032355519901541
-data/general/文子_-_Wenzi-九守.txt.json.csv: 0.30181807531360105
-data/general/論語_-_The_Analects-述而.txt.json.csv: 0.30060557819537914
-data/general/淮南子_-_Huainanzi-主術訓.txt.json.csv: 0.30027546433876695
-data/general/莊子_-_Zhuangzi-庚桑楚.txt.json.csv: 0.29944719565093975
-data/general/說苑_-_Shuo_Yuan-建本.txt.json.csv: 0.29877536037958696
-data/general/孟子_-_Mengzi-告子上.txt.json.csv: 0.29813582982307274
-data/general/韓詩外傳_-_Han_Shi_Wai_Zhuan-卷一.txt.json.csv: 0.2978815361811308
-data/general/列子_-_Liezi-湯問.txt.json.csv: 0.29711869233371285
-data/general/荀子_-_Xunzi-君道.txt.json.csv: 0.2969439436683624
-data/general/孔子家語_-_Kongzi_Jiayu-六本.txt.json.csv: 0.29669015922600434
-data/general/論語_-_The_Analects-陽貨.txt.json.csv: 0.2965413661667794
-data/general/文子_-_Wenzi-自然.txt.json.csv: 0.29502131670343695
-data/general/論衡_-_Lunheng-問孔.txt.json.csv: 0.29496794726771763
-data/general/論衡_-_Lunheng-定賢.txt.json.csv: 0.29446143305935546
-data/general/孔子家語_-_Kongzi_Jiayu-致思.txt.json.csv: 0.2933856675001919
-data/general/國語_-_Guo_Yu-晉語二.txt.json.csv: 0.2933209443851965
-data/general/莊子_-_Zhuangzi-列御寇.txt.json.csv: 0.2932323577887139
-data/general/荀子_-_Xunzi-解蔽.txt.json.csv: 0.29299154733901595
-data/general/說苑_-_Shuo_Yuan-政理.txt.json.csv: 0.29291562731474297
-data/general/中論_-_Zhong_Lun-覈辯.txt.json.csv: 0.29185969390961125
-data/general/說苑_-_Shuo_Yuan-立節.txt.json.csv: 0.29171973439179916
-data/general/論衡_-_Lunheng-紀妖.txt.json.csv: 0.29139220748904937
-data/general/後漢書_-_Hou_Han_Shu-王充王符仲長統列傳.txt.json.csv: 0.2904437255746018
-data/general/說苑_-_Shuo_Yuan-至公.txt.json.csv: 0.28983593577109407
-data/general/揚子法言_-_Yangzi_Fayan-淵騫卷第十一.txt.json.csv: 0.2894861556589681
-data/general/孟子_-_Mengzi-公孫丑上.txt.json.csv: 0.28915985024345386
-data/general/荀子_-_Xunzi-宥坐.txt.json.csv: 0.28790336613588297
-data/general/新序_-_Xin_Xu-節士.txt.json.csv: 0.28716897248245543
-data/general/孔子家語_-_Kongzi_Jiayu-三恕.txt.json.csv: 0.28671837505820114
-data/general/新序_-_Xin_Xu-雜事二.txt.json.csv: 0.2855715343055734
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-五鑑.txt.json.csv: 0.28497596634741135
-data/general/揚子法言_-_Yangzi_Fayan-五百卷第八.txt.json.csv: 0.2847545195293507
-data/general/國語_-_Guo_Yu-晉語一.txt.json.csv: 0.28456242675919813
-data/general/荀子_-_Xunzi-榮辱.txt.json.csv: 0.28431794600371896
-data/general/荀子_-_Xunzi-正名.txt.json.csv: 0.28422211538952874
-data/general/韓非子_-_Hanfeizi-內儲說上.txt.json.csv: 0.2840599786135651
-data/general/荀子_-_Xunzi-哀公.txt.json.csv: 0.28392769873942647
-data/general/荀子_-_Xunzi-子道.txt.json.csv: 0.28287239267928616
-data/general/新序_-_Xin_Xu-雜事一.txt.json.csv: 0.2814242011666102
-data/general/揚子法言_-_Yangzi_Fayan-問明卷第六.txt.json.csv: 0.281414473718853
-data/general/論語_-_The_Analects-憲問.txt.json.csv: 0.28095624917095235
-data/general/文子_-_Wenzi-精誠.txt.json.csv: 0.280925589866712
-data/general/揚子法言_-_Yangzi_Fayan-君子卷第十二.txt.json.csv: 0.27999476689641484
-data/general/論語_-_The_Analects-雍也.txt.json.csv: 0.2799764765612159
-data/general/荀子_-_Xunzi-堯問.txt.json.csv: 0.27910300405308414
-data/general/說苑_-_Shuo_Yuan-佚文.txt.json.csv: 0.2790351742827756
-data/general/韓非子_-_Hanfeizi-外儲說左上.txt.json.csv: 0.27884181369827854
-data/general/說苑_-_Shuo_Yuan-臣術.txt.json.csv: 0.278735372633962
-data/general/後漢書_-_Hou_Han_Shu-逸民列傳.txt.json.csv: 0.27734655918619394
-data/general/論語_-_The_Analects-衛靈公.txt.json.csv: 0.2751313871404327
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-執一.txt.json.csv: 0.27480622880005623
-data/general/孟子_-_Mengzi-梁惠王上.txt.json.csv: 0.2742957939409491
-data/general/韓非子_-_Hanfeizi-外儲說右上.txt.json.csv: 0.27356216185063037
-data/general/說苑_-_Shuo_Yuan-復恩.txt.json.csv: 0.2728234308439464
-data/general/莊子_-_Zhuangzi-漁父.txt.json.csv: 0.2721493865976518
-data/general/尹文子_-_Yin_Wen_Zi-大道上.txt.json.csv: 0.2716092422094132
-data/general/史記_-_Shiji-老子韓非列傳.txt.json.csv: 0.271522350923337
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-一宇.txt.json.csv: 0.27051507325010526
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-二柱.txt.json.csv: 0.2704540778966205
-data/general/文子_-_Wenzi-道原.txt.json.csv: 0.27008144330968165
-data/general/孔子家語_-_Kongzi_Jiayu-好生.txt.json.csv: 0.2700425721247814
-data/general/孟子_-_Mengzi-告子下.txt.json.csv: 0.2699842771529951
-data/general/孟子_-_Mengzi-梁惠王下.txt.json.csv: 0.26985051714594843
-data/general/莊子_-_Zhuangzi-外物.txt.json.csv: 0.2697352768388492
-data/general/莊子_-_Zhuangzi-逍遙遊.txt.json.csv: 0.2693360688078868
-data/general/論語_-_The_Analects-公冶長.txt.json.csv: 0.2692679945927589
-data/general/說苑_-_Shuo_Yuan-奉使.txt.json.csv: 0.2684415289809632
-data/general/中論_-_Zhong_Lun-脩本.txt.json.csv: 0.26825403846497
-data/general/淮南子_-_Huainanzi-說林訓.txt.json.csv: 0.2682013286127879
-data/general/揚子法言_-_Yangzi_Fayan-問神卷第五.txt.json.csv: 0.26738933759397376
-data/general/論衡_-_Lunheng-自紀.txt.json.csv: 0.2673474631653021
-data/general/潛夫論_-_Qian_Fu_Lun-夢列.txt.json.csv: 0.26727572747334954
-data/general/後漢書_-_Hou_Han_Shu-列女傳.txt.json.csv: 0.2670528145604549
-data/general/新序_-_Xin_Xu-雜事四.txt.json.csv: 0.2669361308735549
-data/general/大戴禮記_-_Da_Dai_Li_Ji-哀公問五義.txt.json.csv: 0.2669044150292293
-data/general/孟子_-_Mengzi-盡心下.txt.json.csv: 0.26686847626447924
-data/general/漢書_-_Han_Shu-賈誼傳.txt.json.csv: 0.26553754575920147
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-謹聽.txt.json.csv: 0.2655280806875969
-data/general/孔子家語_-_Kongzi_Jiayu-賢君.txt.json.csv: 0.26539467667886785
-data/general/韓非子_-_Hanfeizi-難三.txt.json.csv: 0.26502081802972094
-data/general/孔叢子_-_Kongcongzi-陳士義.txt.json.csv: 0.26444048879275867
-data/general/禮記_-_Liji-檀弓上.txt.json.csv: 0.2639131779162342
-data/general/韓非子_-_Hanfeizi-解老.txt.json.csv: 0.26376173299099875
-data/general/韓非子_-_Hanfeizi-說林上.txt.json.csv: 0.26299236990130065
-data/general/論語_-_The_Analects-先進.txt.json.csv: 0.26290949757119175
-data/general/新序_-_Xin_Xu-義勇.txt.json.csv: 0.262777188490313
-data/general/淮南子_-_Huainanzi-兵略訓.txt.json.csv: 0.26197522247459093
-data/general/管子_-_Guanzi-侈靡.txt.json.csv: 0.2613079586637589
-data/general/孔叢子_-_Kongcongzi-答問.txt.json.csv: 0.2610771584207963
-data/general/漢書_-_Han_Shu-東方朔傳.txt.json.csv: 0.2610327681013382
-data/general/申鑒_-_Shen_Jian-雜言下.txt.json.csv: 0.26072425217859546
-data/general/揚子法言_-_Yangzi_Fayan-吾子卷第二.txt.json.csv: 0.2604739074580228
-data/general/論語_-_The_Analects-為政.txt.json.csv: 0.25927145539597013
-data/general/漢書_-_Han_Shu-賈鄒枚路傳.txt.json.csv: 0.2588566111642395
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-九藥.txt.json.csv: 0.25873904043065354
-data/general/孔子家語_-_Kongzi_Jiayu-困誓.txt.json.csv: 0.2582705608926242
-data/general/韓非子_-_Hanfeizi-說林下.txt.json.csv: 0.25808294984930086
-data/general/論衡_-_Lunheng-死偽.txt.json.csv: 0.25780157086400834
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-觀世.txt.json.csv: 0.257657389597022
-data/general/荀子_-_Xunzi-賦.txt.json.csv: 0.25749626619285304
-data/general/論語_-_The_Analects-子路.txt.json.csv: 0.2574238280226694
-data/general/論語_-_The_Analects-里仁.txt.json.csv: 0.25709950174244106
-data/general/國語_-_Guo_Yu-楚語下.txt.json.csv: 0.2566464668444026
-data/general/論衡_-_Lunheng-刺孟.txt.json.csv: 0.2562573787312606
-data/general/揚子法言_-_Yangzi_Fayan-孝至卷第十三.txt.json.csv: 0.2557017606056516
-data/general/荀子_-_Xunzi-天論.txt.json.csv: 0.2554904405085941
-data/general/韓非子_-_Hanfeizi-十過.txt.json.csv: 0.25530771392210827
-data/general/鄧析子_-_Deng_Xi_Zi-無厚.txt.json.csv: 0.2550988386887083
-data/general/國語_-_Guo_Yu-晉語九.txt.json.csv: 0.25498464325857806
-data/general/漢書_-_Han_Shu-蒯伍江息夫傳.txt.json.csv: 0.25480740097393917
-data/general/鶡冠子_-_He_Guan_Zi-天權.txt.json.csv: 0.2547138418632692
-data/general/莊子_-_Zhuangzi-應帝王.txt.json.csv: 0.2543335775104213
-data/general/論衡_-_Lunheng-自然.txt.json.csv: 0.253974780840506
-data/general/墨子_-_Mozi-天志下.txt.json.csv: 0.25396778281850557
-data/general/後漢書_-_Hou_Han_Shu-文苑列傳下.txt.json.csv: 0.25356801063463785
-data/general/國語_-_Guo_Yu-晉語八.txt.json.csv: 0.2532155318452736
-data/general/揚子法言_-_Yangzi_Fayan-重黎卷第十.txt.json.csv: 0.25271583895010147
-data/general/揚子法言_-_Yangzi_Fayan-寡見卷第七.txt.json.csv: 0.25245739033337367
-data/general/禮記_-_Liji-檀弓下.txt.json.csv: 0.251934192663853
-data/general/論語_-_The_Analects-八佾.txt.json.csv: 0.251638483144405
-data/general/漢書_-_Han_Shu-董仲舒傳.txt.json.csv: 0.25158014248823896
-data/general/墨子_-_Mozi-天志上.txt.json.csv: 0.2512723272347432
-data/general/論衡_-_Lunheng-禍虛.txt.json.csv: 0.2511741244101578
-data/general/國語_-_Guo_Yu-晉語四.txt.json.csv: 0.25098495520433395
-data/general/孟子_-_Mengzi-盡心上.txt.json.csv: 0.25084071303939864
-data/general/國語_-_Guo_Yu-魯語上.txt.json.csv: 0.25068003424070534
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-三極.txt.json.csv: 0.2500892747468266
-data/general/孟子_-_Mengzi-滕文公下.txt.json.csv: 0.2500471115384553
-data/general/漢書_-_Han_Shu-王貢兩龔鮑傳.txt.json.csv: 0.24965653654942818
-data/general/墨子_-_Mozi-非儒下.txt.json.csv: 0.24945221134500345
-data/general/風俗通義_-_Fengsu_Tongyi-正失.txt.json.csv: 0.24942556677928215
-data/general/說苑_-_Shuo_Yuan-脩文.txt.json.csv: 0.24904435279870468
-data/general/管子_-_Guanzi-心術下.txt.json.csv: 0.24890624270838863
-data/general/國語_-_Guo_Yu-魯語下.txt.json.csv: 0.24830851550425762
-data/general/孔叢子_-_Kongcongzi-記義.txt.json.csv: 0.24808342122067356
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-十三年.txt.json.csv: 0.24806664994543925
-data/general/史記_-_Shiji-孔子世家.txt.json.csv: 0.24791452445377
-data/general/論衡_-_Lunheng-別通.txt.json.csv: 0.24772823312752235
-data/general/文子_-_Wenzi-上德.txt.json.csv: 0.2476839875445699
-data/general/荀子_-_Xunzi-正論.txt.json.csv: 0.2475738787740809
-data/general/淮南子_-_Huainanzi-要略.txt.json.csv: 0.2464431109778856
-data/general/漢書_-_Han_Shu-酈陸朱劉叔孫傳.txt.json.csv: 0.24621569983569278
-data/general/中論_-_Zhong_Lun-虛道.txt.json.csv: 0.2461812220462224
-data/general/國語_-_Guo_Yu-晉語五.txt.json.csv: 0.2460860488014553
-data/general/漢書_-_Han_Shu-眭兩夏侯京翼李傳.txt.json.csv: 0.24605125952729054
-data/general/孔叢子_-_Kongcongzi-抗志.txt.json.csv: 0.2454068558083915
-data/general/史記_-_Shiji-司馬相如列傳.txt.json.csv: 0.2452434989750249
-data/general/漢書_-_Han_Shu-敘傳上.txt.json.csv: 0.24510378884003234
-data/general/史記_-_Shiji-李斯列傳.txt.json.csv: 0.24493079841264026
-data/general/漢書_-_Han_Shu-嚴朱吾丘主父徐嚴終王賈傳下.txt.json.csv: 0.24475421949876788
-data/general/史記_-_Shiji-日者列傳.txt.json.csv: 0.24398914231245916
-data/general/論語_-_The_Analects-顏淵.txt.json.csv: 0.24386409266007453
-data/general/荀子_-_Xunzi-脩身.txt.json.csv: 0.24366325208860337
-data/general/孟子_-_Mengzi-滕文公上.txt.json.csv: 0.24359084078749466
-data/general/史記_-_Shiji-滑稽列傳.txt.json.csv: 0.2434970943231958
-data/general/文子_-_Wenzi-下德.txt.json.csv: 0.24330355299087955
-data/general/孔子家語_-_Kongzi_Jiayu-子貢問.txt.json.csv: 0.24327374839504207
-data/general/孔子家語_-_Kongzi_Jiayu-在厄.txt.json.csv: 0.242754532604414
-data/general/國語_-_Guo_Yu-周語下.txt.json.csv: 0.24266529677490692
-data/general/管子_-_Guanzi-心術上.txt.json.csv: 0.24262400346717983
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-七釜.txt.json.csv: 0.2425452850255064
-data/general/潛夫論_-_Qian_Fu_Lun-釋難.txt.json.csv: 0.242231994122027
-data/general/荀子_-_Xunzi-不苟.txt.json.csv: 0.24220503021755765
-data/general/孔子家語_-_Kongzi_Jiayu-觀周.txt.json.csv: 0.24214087981877627
-data/general/孔子家語_-_Kongzi_Jiayu-正論解.txt.json.csv: 0.241164395535989
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-必己.txt.json.csv: 0.24009103766969436
-data/general/慎子_-_Shenzi-逸文.txt.json.csv: 0.24002973426161106
-data/general/漢書_-_Han_Shu-楚元王傳.txt.json.csv: 0.23938618771119755
-data/general/六韜_-_Liu_Tao-發啟.txt.json.csv: 0.23930152270136534
-data/general/孟子_-_Mengzi-離婁下.txt.json.csv: 0.23927170186902352
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-知度.txt.json.csv: 0.23924506405953236
-data/general/大戴禮記_-_Da_Dai_Li_Ji-五帝德.txt.json.csv: 0.23921669390635028
-data/general/孟子_-_Mengzi-萬章下.txt.json.csv: 0.23913977360075175
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-任數.txt.json.csv: 0.2391231330628091
-data/general/荀子_-_Xunzi-王霸.txt.json.csv: 0.23873250542405297
-data/general/中論_-_Zhong_Lun-貴驗.txt.json.csv: 0.2383855950221751
-data/general/韓非子_-_Hanfeizi-外儲說左下.txt.json.csv: 0.23822501343652858
-data/general/國語_-_Guo_Yu-晉語三.txt.json.csv: 0.23777233379444587
-data/general/禮記_-_Liji-哀公問.txt.json.csv: 0.23776205550601512
-data/general/文子_-_Wenzi-上仁.txt.json.csv: 0.2375135926184789
-data/general/墨子_-_Mozi-耕柱.txt.json.csv: 0.236613618118959
-data/general/新序_-_Xin_Xu-刺奢.txt.json.csv: 0.23565413513583255
-data/general/淮南子_-_Huainanzi-覽冥訓.txt.json.csv: 0.23561175275667545
-data/general/後漢書_-_Hou_Han_Shu-張衡列傳.txt.json.csv: 0.2354742806024842
-data/general/風俗通義_-_Fengsu_Tongyi-窮通.txt.json.csv: 0.23477137759959954
-data/general/論衡_-_Lunheng-感虛.txt.json.csv: 0.23453608986610947
-data/general/管子_-_Guanzi-形勢解.txt.json.csv: 0.23434372566082515
-data/general/論語_-_The_Analects-子張.txt.json.csv: 0.23379977392703774
-data/general/大戴禮記_-_Da_Dai_Li_Ji-哀公問於孔子.txt.json.csv: 0.23355679691150993
-data/general/潛夫論_-_Qian_Fu_Lun-德化.txt.json.csv: 0.23353955339517732
-data/general/荀子_-_Xunzi-富國.txt.json.csv: 0.23297897750042454
-data/general/墨子_-_Mozi-兼愛下.txt.json.csv: 0.2326925729815528
-data/general/鄧析子_-_Deng_Xi_Zi-轉辭.txt.json.csv: 0.23261577675971404
-data/general/大戴禮記_-_Da_Dai_Li_Ji-勸學.txt.json.csv: 0.2325546386679667
-data/general/大戴禮記_-_Da_Dai_Li_Ji-少閒.txt.json.csv: 0.23190589847085996
-data/general/荀子_-_Xunzi-王制.txt.json.csv: 0.23162459741005081
-data/general/管子_-_Guanzi-版法解.txt.json.csv: 0.23141241243650415
-data/general/淮南子_-_Huainanzi-本經訓.txt.json.csv: 0.23115025743366566
-data/general/黃帝內經_-_Huangdi_Neijing-淫邪發夢.txt.json.csv: 0.23085684229516798
-data/general/尹文子_-_Yin_Wen_Zi-大道下.txt.json.csv: 0.2307169043594053
-data/general/郭店_-_Guodian-老子甲.txt.json.csv: 0.23056224781297988
-data/general/論語_-_The_Analects-學而.txt.json.csv: 0.2304684411378402
-data/general/大戴禮記_-_Da_Dai_Li_Ji-四代.txt.json.csv: 0.2300475038556146
-data/general/史記_-_Shiji-樂書.txt.json.csv: 0.2299743872692454
-data/general/墨子_-_Mozi-公孟.txt.json.csv: 0.2298574899234645
-data/general/申鑒_-_Shen_Jian-雜言上.txt.json.csv: 0.22968689371662845
-data/general/莊子_-_Zhuangzi-胠篋.txt.json.csv: 0.22952767971485613
-data/general/孟子_-_Mengzi-離婁上.txt.json.csv: 0.2294043188431556
-data/general/新序_-_Xin_Xu-善謀下.txt.json.csv: 0.22909949465975396
-data/general/中論_-_Zhong_Lun-考偽.txt.json.csv: 0.2289088411935036
-data/general/周易_-_Book_of_Changes-繫辭上.txt.json.csv: 0.2287978296380127
-data/general/荀子_-_Xunzi-禮論.txt.json.csv: 0.22848114543492348
-data/general/周易_-_Book_of_Changes-繫辭下.txt.json.csv: 0.22837187878005505
-data/general/孔子家語_-_Kongzi_Jiayu-曲禮子貢問.txt.json.csv: 0.2283016224685555
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-審應.txt.json.csv: 0.22784002125319336
-data/general/荀子_-_Xunzi-勸學.txt.json.csv: 0.22759351369603043
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-順說.txt.json.csv: 0.22720678099581323
-data/general/越絕書_-_Yue_Jue_Shu-外傳枕中.txt.json.csv: 0.22720575326471265
-data/general/新語_-_Xin_Yu-辨惑.txt.json.csv: 0.22696391539198452
-data/general/新書_-_Xin_Shu-脩政語上.txt.json.csv: 0.2269429084999403
-data/general/韓非子_-_Hanfeizi-難一.txt.json.csv: 0.22647065087470744
-data/general/鶡冠子_-_He_Guan_Zi-道端.txt.json.csv: 0.22605894460056897
-data/general/孔叢子_-_Kongcongzi-居衛.txt.json.csv: 0.22599982607039595
-data/general/史記_-_Shiji-屈原賈生列傳.txt.json.csv: 0.22581712187776148
-data/general/韓非子_-_Hanfeizi-揚權.txt.json.csv: 0.22542101921692917
-data/general/後漢書_-_Hou_Han_Shu-桓譚馮衍列傳上.txt.json.csv: 0.22493683159277
-data/general/韓非子_-_Hanfeizi-內儲說下.txt.json.csv: 0.2247131628792065
-data/general/鶡冠子_-_He_Guan_Zi-世兵.txt.json.csv: 0.22466457359131023
-data/general/漢書_-_Han_Shu-武五子傳.txt.json.csv: 0.22460618923438383
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-長利.txt.json.csv: 0.2245977567392433
-data/general/新序_-_Xin_Xu-雜事三.txt.json.csv: 0.22451213083915378
-data/general/論衡_-_Lunheng-感類.txt.json.csv: 0.2242384130422221
-data/general/史記_-_Shiji-魯仲連鄒陽列傳.txt.json.csv: 0.2240845245302883
-data/general/揚子法言_-_Yangzi_Fayan-先知卷第九.txt.json.csv: 0.22391644270394276
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-壹行.txt.json.csv: 0.22391106223023666
-data/general/荀子_-_Xunzi-成相.txt.json.csv: 0.22373023459096755
-data/general/越絕書_-_Yue_Jue_Shu-外傳計倪.txt.json.csv: 0.22363313321166492
-data/general/孔子家語_-_Kongzi_Jiayu-五帝德.txt.json.csv: 0.22330288622900718
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-長見.txt.json.csv: 0.2232460963797093
-data/general/孔叢子_-_Kongcongzi-嘉言.txt.json.csv: 0.22309766631884834
-data/general/漢書_-_Han_Shu-司馬相如傳下.txt.json.csv: 0.22306560367324885
-data/general/鶡冠子_-_He_Guan_Zi-能天.txt.json.csv: 0.2229607504612608
-data/general/管子_-_Guanzi-戒.txt.json.csv: 0.22290590752143702
-data/general/老子河上公章句_-_Heshanggong_Laozi-知難.txt.json.csv: 0.2223388504987999
-data/general/中論_-_Zhong_Lun-亡國.txt.json.csv: 0.2223356185087204
-data/general/漢書_-_Han_Shu-揚雄傳下.txt.json.csv: 0.22220784669939875
-data/general/管子_-_Guanzi-內業.txt.json.csv: 0.22200493306362315
-data/daoist/Guanzi_管子_Neiye_內業.txt.json.csv: 0.2219245647096739
-data/general/國語_-_Guo_Yu-周語中.txt.json.csv: 0.2217552784962536
-data/general/漢書_-_Han_Shu-楊胡朱梅云傳.txt.json.csv: 0.2214011872640898
-data/general/孔叢子_-_Kongcongzi-執節.txt.json.csv: 0.22137818120278502
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-君守.txt.json.csv: 0.22126832107527541
-data/general/孔叢子_-_Kongcongzi-記問.txt.json.csv: 0.22107842001862982
-data/general/孔子家語_-_Kongzi_Jiayu-王言解.txt.json.csv: 0.22088238377580455
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-精諭.txt.json.csv: 0.2208713319805099
-data/general/韓非子_-_Hanfeizi-說難.txt.json.csv: 0.2202651042660655
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-離俗.txt.json.csv: 0.22017238076378168
-data/general/文子_-_Wenzi-上禮.txt.json.csv: 0.22010698006710094
-data/general/魯勝墨辯注敘.txt.json.csv: 0.22005805816056034
-data/general/漢書_-_Han_Shu-五行志中之上.txt.json.csv: 0.21972259738126237
-data/general/後漢書_-_Hou_Han_Shu-方術列傳上.txt.json.csv: 0.2196332710810462
-data/general/韓非子_-_Hanfeizi-難四.txt.json.csv: 0.2193682559594268
-data/general/荀子_-_Xunzi-非十二子.txt.json.csv: 0.21929902809060958
-data/general/逸周書_-_Lost_Book_of_Zhou-周祝解.txt.json.csv: 0.21920357457617057
-data/general/潛夫論_-_Qian_Fu_Lun-邊議.txt.json.csv: 0.2190064821732282
-data/general/論衡_-_Lunheng-薄葬.txt.json.csv: 0.21893665403449747
-data/general/新書_-_Xin_Shu-諭誠.txt.json.csv: 0.21884854615088883
-data/general/孟子_-_Mengzi-萬章上.txt.json.csv: 0.21877567503993195
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-越王勾踐五年.txt.json.csv: 0.21870856635401548
-data/general/論衡_-_Lunheng-論死.txt.json.csv: 0.2184478075390878
-data/general/鶡冠子_-_He_Guan_Zi-天則.txt.json.csv: 0.2180114214713436
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-勾踐入臣外傳.txt.json.csv: 0.21790610851086814
-data/general/風俗通義_-_Fengsu_Tongyi-怪神.txt.json.csv: 0.21758441044551016
-data/general/孔子家語_-_Kongzi_Jiayu-論禮.txt.json.csv: 0.21748036715397068
-data/general/國語_-_Guo_Yu-晉語六.txt.json.csv: 0.2172167975251255
-data/general/新書_-_Xin_Shu-春秋.txt.json.csv: 0.21721202410824192
-data/general/越絕書_-_Yue_Jue_Shu-篇敘外傳記.txt.json.csv: 0.21720731383231892
-data/general/漢書_-_Han_Shu-谷永杜鄴傳.txt.json.csv: 0.21707915564104685
-data/general/孔叢子_-_Kongcongzi-雜訓.txt.json.csv: 0.21684189430588685
-data/general/史記_-_Shiji-伯夷列傳.txt.json.csv: 0.21683486921348422
-data/general/逸周書_-_Lost_Book_of_Zhou-太子晉解.txt.json.csv: 0.21683129839144455
-data/general/禮記_-_Liji-大學.txt.json.csv: 0.2168278836410993
-data/general/韓非子_-_Hanfeizi-姦劫弒臣.txt.json.csv: 0.216818326750712
-data/general/越絕書_-_Yue_Jue_Shu-德序外傳記.txt.json.csv: 0.2165765460480617
-data/general/申鑒_-_Shen_Jian-時事.txt.json.csv: 0.21633561895446432
-data/general/國語_-_Guo_Yu-楚語上.txt.json.csv: 0.21628914689519874
-data/general/韓非子_-_Hanfeizi-外儲說右下.txt.json.csv: 0.21627634207175347
-data/general/揚子法言_-_Yangzi_Fayan-修身卷第三.txt.json.csv: 0.21624516855632245
-data/general/史記_-_Shiji-劉敬叔孫通列傳.txt.json.csv: 0.21618431456952186
-data/general/鹽鐵論_-_Yan_Tie_Lun-相刺.txt.json.csv: 0.21566303844131005
-data/general/中論_-_Zhong_Lun-智行.txt.json.csv: 0.21564604557754644
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-遇合.txt.json.csv: 0.21543421139179794
-data/general/史記_-_Shiji-仲尼弟子列傳.txt.json.csv: 0.2153790822087171
-data/general/荀子_-_Xunzi-彊國.txt.json.csv: 0.2151779323175198
-data/general/申鑒_-_Shen_Jian-俗嫌.txt.json.csv: 0.21517551288376718
-data/general/漢書_-_Han_Shu-翟方進傳.txt.json.csv: 0.21511052221484966
-data/general/六韜_-_Liu_Tao-文啟.txt.json.csv: 0.21507087938044275
-data/general/墨子_-_Mozi-小取.txt.json.csv: 0.21492968477806174
-data/general/文子_-_Wenzi-上義.txt.json.csv: 0.21480328974766846
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-貴生.txt.json.csv: 0.21472005567352317
-data/general/論衡_-_Lunheng-道虛.txt.json.csv: 0.21451237194989944
-data/general/論語_-_The_Analects-微子.txt.json.csv: 0.21446440348403445
-data/general/墨子_-_Mozi-非攻上.txt.json.csv: 0.21432940746997822
-data/general/春秋穀梁傳_-_Guliang_Zhuan-僖公十年.txt.json.csv: 0.21415532957921982
-data/general/管子_-_Guanzi-形勢.txt.json.csv: 0.21395293010551872
-data/general/管子_-_Guanzi-小匡.txt.json.csv: 0.21388157828832424
-data/general/越絕書_-_Yue_Jue_Shu-計倪內經.txt.json.csv: 0.21358989100161013
-data/general/韓非子_-_Hanfeizi-五蠹.txt.json.csv: 0.21335449552840532
-data/general/中論_-_Zhong_Lun-慎所從.txt.json.csv: 0.21325976368804442
-data/general/風俗通義_-_Fengsu_Tongyi-十反.txt.json.csv: 0.21317031638900696
-data/general/論衡_-_Lunheng-書虛.txt.json.csv: 0.2129496126076278
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-恃君.txt.json.csv: 0.21293211706374277
-data/general/論語_-_The_Analects-泰伯.txt.json.csv: 0.2127970733094925
-data/general/墨子_-_Mozi-魯問.txt.json.csv: 0.21259357806740295
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-楚莊王.txt.json.csv: 0.21247309077714877
-data/general/孔叢子_-_Kongcongzi-論書.txt.json.csv: 0.21231333950924078
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-審己.txt.json.csv: 0.21230019324810714
-data/general/史記_-_Shiji-范睢蔡澤列傳.txt.json.csv: 0.21191290542586647
-data/general/史記_-_Shiji-淮陰侯列傳.txt.json.csv: 0.21177074446277244
-data/general/墨子_-_Mozi-貴義.txt.json.csv: 0.21168482128162341
-data/general/史記_-_Shiji-田叔列傳.txt.json.csv: 0.21149882950953083
-data/general/大戴禮記_-_Da_Dai_Li_Ji-曾子制言上.txt.json.csv: 0.21118799273011016
-data/general/論衡_-_Lunheng-謝短.txt.json.csv: 0.21101765109362397
-data/general/後漢書_-_Hou_Han_Shu-獨行列傳.txt.json.csv: 0.21082197278582418
-data/general/論衡_-_Lunheng-齊世.txt.json.csv: 0.21057318314950493
-data/general/韓非子_-_Hanfeizi-顯學.txt.json.csv: 0.2102828378406246
-data/general/後漢書_-_Hou_Han_Shu-郎顗襄楷列傳下.txt.json.csv: 0.2100443682809151
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-仁義法.txt.json.csv: 0.20955931496235017
-data/general/墨子_-_Mozi-天志中.txt.json.csv: 0.20937878848869199
-data/general/論衡_-_Lunheng-譴告.txt.json.csv: 0.20935822422445433
-data/general/尹文子_-_Yin_Wen_Zi-佚文.txt.json.csv: 0.20929058903515152
-data/general/管子_-_Guanzi-四稱.txt.json.csv: 0.2092538986399476
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-勾踐二十一年.txt.json.csv: 0.2092141031394148
-data/general/荀子_-_Xunzi-議兵.txt.json.csv: 0.20872318827780934
-data/general/墨子_-_Mozi-非命中.txt.json.csv: 0.2084790563349097
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-郊語.txt.json.csv: 0.20820971496960097
-data/general/大戴禮記_-_Da_Dai_Li_Ji-保傅.txt.json.csv: 0.2080604635189773
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-博志.txt.json.csv: 0.2078928181531397
-data/general/墨子_-_Mozi-經說上.txt.json.csv: 0.20781600002818987
-data/general/史記_-_Shiji-禮書.txt.json.csv: 0.20780524307841128
-data/general/春秋公羊傳_-_Gongyang_Zhuan-哀公十四年.txt.json.csv: 0.20773566792842116
-data/general/孔子家語_-_Kongzi_Jiayu-大昏解.txt.json.csv: 0.2077256334949564
-data/general/墨子_-_Mozi-大取.txt.json.csv: 0.20766027415180333
-data/general/孔叢子_-_Kongcongzi-儒服.txt.json.csv: 0.20754143197885042
-data/general/大戴禮記_-_Da_Dai_Li_Ji-文王官人.txt.json.csv: 0.20730940396466585
-data/general/論語_-_The_Analects-堯曰.txt.json.csv: 0.207195042360786
-data/general/韓非子_-_Hanfeizi-喻老.txt.json.csv: 0.20710195756910751
-data/general/大戴禮記_-_Da_Dai_Li_Ji-虞戴德.txt.json.csv: 0.2069677012379763
-data/general/風俗通義_-_Fengsu_Tongyi-過譽.txt.json.csv: 0.20669868205497424
-data/general/焦氏易林_-_Jiaoshi_Yilin-謙之.txt.json.csv: 0.20653528717751024
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-必仁且知.txt.json.csv: 0.20649843207764843
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-審分.txt.json.csv: 0.20630240202128544
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-五年.txt.json.csv: 0.20622615783958312
-data/general/後漢書_-_Hou_Han_Shu-荀韓鍾陳列傳.txt.json.csv: 0.2061209061940774
-data/general/管子_-_Guanzi-宙合.txt.json.csv: 0.20611707223296397
-data/general/大戴禮記_-_Da_Dai_Li_Ji-曾子立事.txt.json.csv: 0.20588380421527303
-data/general/孔子家語_-_Kongzi_Jiayu-辯樂解.txt.json.csv: 0.20580658015187572
-data/general/莊子_-_Zhuangzi-繕性.txt.json.csv: 0.20565432864020575
-data/general/鶡冠子_-_He_Guan_Zi-度萬.txt.json.csv: 0.20543848256932612
-data/general/六韜_-_Liu_Tao-兵道.txt.json.csv: 0.20486662764398503
-data/general/韓非子_-_Hanfeizi-難二.txt.json.csv: 0.20460136002548152
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-分職.txt.json.csv: 0.2043526255181467
-data/general/鶡冠子_-_He_Guan_Zi-泰鴻.txt.json.csv: 0.20432469727764133
-data/general/國語_-_Guo_Yu-吳語.txt.json.csv: 0.20417947488661906
-data/general/孔子家語_-_Kongzi_Jiayu-子路初見.txt.json.csv: 0.20404779047625277
-data/general/孔子家語_-_Kongzi_Jiayu-辯物.txt.json.csv: 0.20400256266418337
-data/general/鹽鐵論_-_Yan_Tie_Lun-大論.txt.json.csv: 0.20375209569623073
-data/general/前漢紀_-_Qian_Han_Ji-孝武皇帝紀二.txt.json.csv: 0.203449424873992
-data/general/墨子_-_Mozi-非攻下.txt.json.csv: 0.20336748157342033
-data/general/中論_-_Zhong_Lun-審大臣.txt.json.csv: 0.20334614448586993
-data/general/孔子家語_-_Kongzi_Jiayu-辯政.txt.json.csv: 0.20322246322376308
-data/general/後漢書_-_Hou_Han_Shu-鄭范陳賈張列傳.txt.json.csv: 0.2028647694414862
-data/general/管子_-_Guanzi-樞言.txt.json.csv: 0.2027892909253671
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-天道施.txt.json.csv: 0.2025130623072746
-data/general/荀子_-_Xunzi-君子.txt.json.csv: 0.2024233618020382
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-情欲.txt.json.csv: 0.20240319390999573
-data/general/申鑒_-_Shen_Jian-政體.txt.json.csv: 0.2023230246178403
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-勾踐十三年.txt.json.csv: 0.2020569194960055
-data/general/六韜_-_Liu_Tao-文師.txt.json.csv: 0.20160144811074535
-data/general/後漢書_-_Hou_Han_Shu-馮衍傳下.txt.json.csv: 0.20154897212743314
-data/general/潛夫論_-_Qian_Fu_Lun-賢難.txt.json.csv: 0.2012473352470464
-data/general/焦氏易林_-_Jiaoshi_Yilin-泰之.txt.json.csv: 0.20121902282010884
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-勾踐二十五年.txt.json.csv: 0.20118283662084652
-data/general/潛夫論_-_Qian_Fu_Lun-交際.txt.json.csv: 0.2011349810118601
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-聽言.txt.json.csv: 0.20095875385164194
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-八籌.txt.json.csv: 0.2009492096119508
-data/general/漢書_-_Han_Shu-嚴朱吾丘主父徐嚴終王賈傳上.txt.json.csv: 0.20069734488095123
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-有度.txt.json.csv: 0.20066342685245103
-data/general/後漢書_-_Hou_Han_Shu-杜欒劉李劉謝列傳.txt.json.csv: 0.20062556606455284
-data/general/周易_-_Book_of_Changes-乾.txt.json.csv: 0.20052568878435267
-data/general/史記_-_Shiji-秦始皇本紀.txt.json.csv: 0.20036630535994973
-data/general/大戴禮記_-_Da_Dai_Li_Ji-小辨.txt.json.csv: 0.2001095868118365
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-疑似.txt.json.csv: 0.19989386798050054
-data/general/墨子_-_Mozi-尚同中.txt.json.csv: 0.19980422762248706
-data/general/風俗通義_-_Fengsu_Tongyi-皇霸.txt.json.csv: 0.19956524583493152
-data/general/荀子_-_Xunzi-法行.txt.json.csv: 0.19911942753265927
-data/general/揚子法言_-_Yangzi_Fayan-學行卷第一.txt.json.csv: 0.1990502346850416
-data/general/論衡_-_Lunheng-奇怪.txt.json.csv: 0.199008530256364
-data/general/禮記_-_Liji-樂記.txt.json.csv: 0.19896479849565665
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-精華.txt.json.csv: 0.1982914028115384
-data/general/荀子_-_Xunzi-性惡.txt.json.csv: 0.19811762523838913
-data/general/孔叢子_-_Kongcongzi-公孫龍.txt.json.csv: 0.19803762081466073
-data/general/禮記_-_Liji-表記.txt.json.csv: 0.19800720913865633
-data/general/潛夫論_-_Qian_Fu_Lun-遏利.txt.json.csv: 0.19799216223045052
-data/general/後漢書_-_Hou_Han_Shu-方術列傳下.txt.json.csv: 0.19791463431749468
-data/general/後漢書_-_Hou_Han_Shu-卓魯魏劉列傳.txt.json.csv: 0.1977955143256633
-data/general/漢書_-_Han_Shu-張陳王周傳.txt.json.csv: 0.19772846293393884
-data/general/孔子家語_-_Kongzi_Jiayu-哀公問政.txt.json.csv: 0.19759184453580322
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-論人.txt.json.csv: 0.19752352202174783
-data/general/管子_-_Guanzi-小問.txt.json.csv: 0.1974383620558459
-data/general/論衡_-_Lunheng-骨相.txt.json.csv: 0.19721389109002244
-data/general/漢書_-_Han_Shu-匡張孔馬傳.txt.json.csv: 0.19712033650379246
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-王道.txt.json.csv: 0.1971087125539548
-data/general/管子_-_Guanzi-小稱.txt.json.csv: 0.19686247256587208
-data/general/六韜_-_Liu_Tao-軍勢.txt.json.csv: 0.1968101064394839
-data/general/史記_-_Shiji-趙世家.txt.json.csv: 0.19670801348686628
-data/general/新書_-_Xin_Shu-數寧.txt.json.csv: 0.19670734549628716
-data/general/列仙傳_-_Lie_Xian_Zhuan-務光.txt.json.csv: 0.19657713447221659
-data/general/六韜_-_Liu_Tao-上賢.txt.json.csv: 0.1965202169907735
-data/general/越絕書_-_Yue_Jue_Shu-外傳記吳王占夢.txt.json.csv: 0.19634246830189525
-data/general/後漢書_-_Hou_Han_Shu-李杜列傳.txt.json.csv: 0.19623164790696768
-data/general/孔叢子_-_Kongcongzi-連叢子下.txt.json.csv: 0.1961887042533898
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-竹林.txt.json.csv: 0.19600838395499445
-data/general/中論_-_Zhong_Lun-貴言.txt.json.csv: 0.19599943738382675
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-觀表.txt.json.csv: 0.1959565715830375
-data/general/申不害_-_Shen_Bu_Hai-佚文.txt.json.csv: 0.19582074423172782
-data/general/後漢書_-_Hou_Han_Shu-左周黃列傳.txt.json.csv: 0.19581697049655064
-data/general/孔子家語_-_Kongzi_Jiayu-顏回.txt.json.csv: 0.19550465535230566
-data/general/史記_-_Shiji-平津侯主父列傳.txt.json.csv: 0.19525391012838506
-data/general/鬼谷子_-_Gui_Gu_Zi-謀篇.txt.json.csv: 0.19503811988532324
-data/general/後漢書_-_Hou_Han_Shu-楊震列傳.txt.json.csv: 0.19496423965746645
-data/general/前漢紀_-_Qian_Han_Ji-孝文皇帝紀上.txt.json.csv: 0.19484470410469473
-data/general/老子河上公章句_-_Heshanggong_Laozi-顯質.txt.json.csv: 0.19482055760566866
-data/general/禮記_-_Liji-文王世子.txt.json.csv: 0.1947345454830603
-data/general/孔叢子_-_Kongcongzi-敘世.txt.json.csv: 0.19420433102621137
-data/general/韓非子_-_Hanfeizi-說疑.txt.json.csv: 0.1940533629573714
-data/general/中論_-_Zhong_Lun-治學.txt.json.csv: 0.19399282860802322
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-先己.txt.json.csv: 0.1938780856620904
-data/general/荀子_-_Xunzi-仲尼.txt.json.csv: 0.1937917941090053
-data/general/後漢書_-_Hou_Han_Shu-蔡邕列傳下.txt.json.csv: 0.19347369665836883
-data/general/六韜_-_Liu_Tao-守國.txt.json.csv: 0.1934185074757547
-data/general/中論_-_Zhong_Lun-夭壽.txt.json.csv: 0.19332958740457987
-data/general/鹽鐵論_-_Yan_Tie_Lun-非鞅.txt.json.csv: 0.19318208051192268
-data/general/潛夫論_-_Qian_Fu_Lun-潛歎.txt.json.csv: 0.19318142281210685
-data/general/白虎通德論_-_Bai_Hu_Tong-封公侯.txt.json.csv: 0.1931563730138708
-data/general/後漢書_-_Hou_Han_Shu-班彪列傳下.txt.json.csv: 0.1928650579700677
-data/general/墨子_-_Mozi-兼愛中.txt.json.csv: 0.19253798137100944
-data/general/墨子_-_Mozi-尚賢中.txt.json.csv: 0.19239075903183808
-data/general/孔叢子_-_Kongcongzi-獨治.txt.json.csv: 0.1922896659258363
-data/general/國語_-_Guo_Yu-周語上.txt.json.csv: 0.19214153912667314
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-正貫.txt.json.csv: 0.19212854474031624
-data/general/禮記_-_Liji-禮運.txt.json.csv: 0.19209048145341728
-data/general/管子_-_Guanzi-輕重甲.txt.json.csv: 0.19188589002187423
-data/general/禮記_-_Liji-仲尼燕居.txt.json.csv: 0.19167948652641204
-data/general/前漢紀_-_Qian_Han_Ji-孝哀皇帝紀下.txt.json.csv: 0.19164694214590053
-data/general/論衡_-_Lunheng-變虛.txt.json.csv: 0.19148770680667013
-data/general/文始真經_-_Wen_Shi_Zhen_Jing-四符.txt.json.csv: 0.19144251656886707
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-行論.txt.json.csv: 0.1913841820754697
-data/general/漢書_-_Han_Shu-司馬相如傳上.txt.json.csv: 0.1913234618300514
-data/general/論衡_-_Lunheng-藝增.txt.json.csv: 0.19129701129751492
-data/general/漢書_-_Han_Shu-杜周傳.txt.json.csv: 0.19125284287643318
-data/general/漢書_-_Han_Shu-刑法志.txt.json.csv: 0.1911605394221647
-data/general/史記_-_Shiji-循吏列傳.txt.json.csv: 0.1911591929126094
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-驕恣.txt.json.csv: 0.19101936782829435
-data/general/鹽鐵論_-_Yan_Tie_Lun-論儒.txt.json.csv: 0.1909219126585662
-data/general/前漢紀_-_Qian_Han_Ji-孝成皇帝紀二.txt.json.csv: 0.19083489329621886
-data/general/白虎通德論_-_Bai_Hu_Tong-五行.txt.json.csv: 0.1903572923234865
-data/general/鹽鐵論_-_Yan_Tie_Lun-褒賢.txt.json.csv: 0.19027020918879647
-data/general/前漢紀_-_Qian_Han_Ji-孝文皇帝紀下.txt.json.csv: 0.1902645991694968
-data/general/論衡_-_Lunheng-儒增.txt.json.csv: 0.1902366718949568
-data/general/莊子_-_Zhuangzi-駢拇.txt.json.csv: 0.1902172256908316
-data/general/中論_-_Zhong_Lun-務本.txt.json.csv: 0.19016170550284067
-data/general/漢書_-_Han_Shu-雋疏于薛平彭傳.txt.json.csv: 0.18989970951115506
-data/general/焦氏易林_-_Jiaoshi_Yilin-隨之.txt.json.csv: 0.18989842194986067
-data/general/後漢書_-_Hou_Han_Shu-楊李翟應霍爰徐列傳.txt.json.csv: 0.18977695703925143
-data/general/論衡_-_Lunheng-非韓.txt.json.csv: 0.18972345214912958
-data/general/論衡_-_Lunheng-說日.txt.json.csv: 0.18950599155925257
-data/general/焦氏易林_-_Jiaoshi_Yilin-同人之.txt.json.csv: 0.18949786312673988
-data/general/中論_-_Zhong_Lun-譴交.txt.json.csv: 0.18874405669542108
-data/general/孔子家語_-_Kongzi_Jiayu-本命解.txt.json.csv: 0.18833190307495262
-data/general/新語_-_Xin_Yu-慎微.txt.json.csv: 0.18830949363792626
-data/general/焦氏易林_-_Jiaoshi_Yilin-噬嗑之.txt.json.csv: 0.1882839995831165
-data/general/前漢紀_-_Qian_Han_Ji-孝武皇帝紀一.txt.json.csv: 0.1882169658117137
-data/general/前漢紀_-_Qian_Han_Ji-孝成皇帝紀三.txt.json.csv: 0.18816597485936482
-data/general/後漢書_-_Hou_Han_Shu-崔駰列傳.txt.json.csv: 0.18815213946480142
-data/general/論衡_-_Lunheng-雷虛.txt.json.csv: 0.1880705169329168
-data/general/國語_-_Guo_Yu-齊語.txt.json.csv: 0.18773788324305446
-data/general/大戴禮記_-_Da_Dai_Li_Ji-曾子疾病.txt.json.csv: 0.18773057969071652
-data/general/漢書_-_Han_Shu-季布欒布田叔傳.txt.json.csv: 0.18755464424566973
-data/general/禮記_-_Liji-孔子閒居.txt.json.csv: 0.18753540895449786
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-慎人.txt.json.csv: 0.1875283187722978
-data/general/漢書_-_Han_Shu-蓋諸葛劉鄭孫毌將何傳.txt.json.csv: 0.18750389385367655
-data/general/漢書_-_Han_Shu-高帝紀下.txt.json.csv: 0.1874245655717594
-data/general/春秋左傳_-_Chun_Qiu_Zuo_Zhuan-昭公七年.txt.json.csv: 0.18739115185847102
-data/general/焦氏易林_-_Jiaoshi_Yilin-豫之.txt.json.csv: 0.18729435959232574
-data/general/論衡_-_Lunheng-偶會.txt.json.csv: 0.1872808934106709
-data/general/前漢紀_-_Qian_Han_Ji-孝成皇帝紀四.txt.json.csv: 0.18720554488365287
-data/general/墨子_-_Mozi-經說下.txt.json.csv: 0.18708192576001
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-貴公.txt.json.csv: 0.18698882700221572
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-大樂.txt.json.csv: 0.18697045044952218
-data/general/焦氏易林_-_Jiaoshi_Yilin-家人之.txt.json.csv: 0.18684929130690336
-data/general/荀子_-_Xunzi-樂論.txt.json.csv: 0.18676621717891517
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-重政.txt.json.csv: 0.1866146833267289
-data/general/白虎通德論_-_Bai_Hu_Tong-禮樂.txt.json.csv: 0.186607860452813
-data/general/史記_-_Shiji-張釋之馮唐列傳.txt.json.csv: 0.18650985971004105
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-知接.txt.json.csv: 0.18650322889532986
-data/general/春秋公羊傳_-_Gongyang_Zhuan-僖公二年.txt.json.csv: 0.18637960244631663
-data/general/前漢紀_-_Qian_Han_Ji-孝元皇帝紀中.txt.json.csv: 0.1863736632091198
-data/general/鹽鐵論_-_Yan_Tie_Lun-刺議.txt.json.csv: 0.1862252909945533
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-貴直.txt.json.csv: 0.18615345022174593
-data/general/史記_-_Shiji-三王世家.txt.json.csv: 0.1860981435410773
-data/general/孔叢子_-_Kongcongzi-公儀.txt.json.csv: 0.18609699558598775
-data/general/焦氏易林_-_Jiaoshi_Yilin-大有之.txt.json.csv: 0.18600432598922936
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-闔閭九年.txt.json.csv: 0.1859720195913442
-data/general/論衡_-_Lunheng-變動.txt.json.csv: 0.18597166692777112
-data/general/新序_-_Xin_Xu-善謀.txt.json.csv: 0.18579830297190572
-data/general/新書_-_Xin_Shu-脩政語下.txt.json.csv: 0.1857232160020405
-data/general/大戴禮記_-_Da_Dai_Li_Ji-衛將軍文子.txt.json.csv: 0.1855446864529136
-data/general/前漢紀_-_Qian_Han_Ji-孝武皇帝紀四.txt.json.csv: 0.18530590318980006
-data/general/列女傳_-_Lie_Nü_Zhuan-魯漆室女.txt.json.csv: 0.18505972384766442
-data/general/大戴禮記_-_Da_Dai_Li_Ji-本命.txt.json.csv: 0.18499664746482863
-data/general/東觀漢記_-_Dong_Guan_Han_Ji-世祖光武皇帝.txt.json.csv: 0.18453377018142222
-data/general/墨子_-_Mozi-非命上.txt.json.csv: 0.18450637727836913
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-正名.txt.json.csv: 0.18441661815972424
-data/general/鹽鐵論_-_Yan_Tie_Lun-取下.txt.json.csv: 0.18439272241248972
-data/general/東觀漢記_-_Dong_Guan_Han_Ji-紀一.txt.json.csv: 0.18420739170666162
-data/general/焦氏易林_-_Jiaoshi_Yilin-遯之.txt.json.csv: 0.18417930556600623
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-重言.txt.json.csv: 0.18411925196109222
-data/general/墨子_-_Mozi-尚賢下.txt.json.csv: 0.18367262286447636
-data/general/潛夫論_-_Qian_Fu_Lun-慎微.txt.json.csv: 0.18358419472770324
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-循天之道.txt.json.csv: 0.18334574201757411
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-立元神.txt.json.csv: 0.18324253498050821
-data/general/後漢書_-_Hou_Han_Shu-劉趙淳于江劉周趙列傳.txt.json.csv: 0.18314076839276514
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-勾踐十年.txt.json.csv: 0.18310491482152758
-data/general/焦氏易林_-_Jiaoshi_Yilin-困之.txt.json.csv: 0.18305191296204562
-data/general/漢書_-_Han_Shu-禮樂志.txt.json.csv: 0.1830255581293037
-data/general/白虎通德論_-_Bai_Hu_Tong-聖人.txt.json.csv: 0.18298841523897486
-data/general/後漢書_-_Hou_Han_Shu-周黃徐姜申屠列傳.txt.json.csv: 0.18276545693838214
-data/general/孔子家語_-_Kongzi_Jiayu-公西赤問.txt.json.csv: 0.18270172771157894
-data/general/後漢書_-_Hou_Han_Shu-陳王列傳.txt.json.csv: 0.18253779979151397
-data/general/西京雜記_-_Xijing_Zaji-第二.txt.json.csv: 0.1825190638371273
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-先識.txt.json.csv: 0.18236720166465065
-data/general/老子河上公章句_-_Heshanggong_Laozi-淳風.txt.json.csv: 0.1820991109785004
-data/general/潛夫論_-_Qian_Fu_Lun-卜列.txt.json.csv: 0.18209750784860063
-data/general/焦氏易林_-_Jiaoshi_Yilin-蠱之.txt.json.csv: 0.18208132579980682
-data/general/墨子_-_Mozi-明鬼下.txt.json.csv: 0.18201583838313207
-data/general/史記_-_Shiji-留侯世家.txt.json.csv: 0.18198311697578948
-data/general/焦氏易林_-_Jiaoshi_Yilin-臨之.txt.json.csv: 0.18174977073585022
-data/general/管子_-_Guanzi-法法.txt.json.csv: 0.1815744887678584
-data/general/管子_-_Guanzi-七臣七主.txt.json.csv: 0.18157174223548758
-data/general/莊子_-_Zhuangzi-馬蹄.txt.json.csv: 0.18148926020777695
-data/general/史記_-_Shiji-陳丞相世家.txt.json.csv: 0.18147811074179276
-data/general/史記_-_Shiji-刺客列傳.txt.json.csv: 0.18146914591432775
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-堯舜不擅移、湯武不專殺.txt.json.csv: 0.18116466984081603
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-壽夢元年.txt.json.csv: 0.18113460204185272
-data/general/孔子家語_-_Kongzi_Jiayu-禮運.txt.json.csv: 0.1810931446533869
-data/general/鶡冠子_-_He_Guan_Zi-環流.txt.json.csv: 0.1806186195585295
-data/general/莊子_-_Zhuangzi-養生主.txt.json.csv: 0.18057016395669234
-data/general/後漢書_-_Hou_Han_Shu-張曹鄭列傳.txt.json.csv: 0.1802114718314644
-data/general/墨子_-_Mozi-節葬下.txt.json.csv: 0.1801066972027904
-data/general/焦氏易林_-_Jiaoshi_Yilin-履之.txt.json.csv: 0.18007018437622072
-data/general/焦氏易林_-_Jiaoshi_Yilin-小畜之.txt.json.csv: 0.18005550319411334
-data/general/孔子家語_-_Kongzi_Jiayu-弟子行.txt.json.csv: 0.18000019821548183
-data/general/史記_-_Shiji-蕭相國世家.txt.json.csv: 0.17998802828063987
-data/general/後漢書_-_Hou_Han_Shu-朱馮虞鄭周列傳.txt.json.csv: 0.17997407087984918
-data/general/焦氏易林_-_Jiaoshi_Yilin-損之.txt.json.csv: 0.17990551741693236
-data/general/論衡_-_Lunheng-四諱.txt.json.csv: 0.1798785295870036
-data/general/管子_-_Guanzi-輕重乙.txt.json.csv: 0.1798017258616032
-data/general/公孫龍子_-_Gongsunlongzi-跡府.txt.json.csv: 0.1797709964150426
-data/general/老子河上公章句_-_Heshanggong_Laozi-鑒遠.txt.json.csv: 0.17969687225981773
-data/general/焦氏易林_-_Jiaoshi_Yilin-明夷之.txt.json.csv: 0.17962539752263743
-data/general/商君書_-_Shang_Jun_Shu-畫策.txt.json.csv: 0.17956715810830864
-data/general/論衡_-_Lunheng-率性.txt.json.csv: 0.17940536190636325
-data/general/鶡冠子_-_He_Guan_Zi-泰錄.txt.json.csv: 0.1793611503391013
-data/general/韓非子_-_Hanfeizi-八經.txt.json.csv: 0.17932723374086043
-data/general/焦氏易林_-_Jiaoshi_Yilin-旅之.txt.json.csv: 0.17910133018827684
-data/general/前漢紀_-_Qian_Han_Ji-孝成皇帝紀一.txt.json.csv: 0.17903171517562336
-data/general/後漢書_-_Hou_Han_Shu-宣張二王杜郭吳承鄭趙列傳.txt.json.csv: 0.17884429995612888
-data/general/新語_-_Xin_Yu-術事.txt.json.csv: 0.17877746144343773
-data/general/風俗通義_-_Fengsu_Tongyi-愆禮.txt.json.csv: 0.17873623295676538
-data/general/國語_-_Guo_Yu-鄭語.txt.json.csv: 0.17849282222044044
-data/general/潛夫論_-_Qian_Fu_Lun-述赦.txt.json.csv: 0.17832226449111163
-data/general/逸周書_-_Lost_Book_of_Zhou-文傳解.txt.json.csv: 0.1781273279917907
-data/general/新語_-_Xin_Yu-道基.txt.json.csv: 0.1781060004919033
-data/general/後漢書_-_Hou_Han_Shu-吳延史盧趙列傳.txt.json.csv: 0.17801866885813197
-data/general/論衡_-_Lunheng-書解.txt.json.csv: 0.17798574871133618
-data/general/焦氏易林_-_Jiaoshi_Yilin-歸妹之.txt.json.csv: 0.17787726033713785
-data/general/難經_-_Nan_Jing-神聖工巧.txt.json.csv: 0.17770323520157497
-data/general/漢書_-_Han_Shu-宣元六王傳.txt.json.csv: 0.177662147640006
-data/general/漢書_-_Han_Shu-韓彭英盧吳傳.txt.json.csv: 0.17762808665685048
-data/general/管子_-_Guanzi-乘馬.txt.json.csv: 0.1772742134450984
-data/general/春秋穀梁傳_-_Guliang_Zhuan-昭公二十年.txt.json.csv: 0.17726152322957756
-data/general/管子_-_Guanzi-禁藏.txt.json.csv: 0.17707457061815196
-data/general/春秋公羊傳_-_Gongyang_Zhuan-隱公元年.txt.json.csv: 0.17684573086180422
-data/general/白虎通德論_-_Bai_Hu_Tong-諫諍.txt.json.csv: 0.17658324259497424
-data/general/楚辭_-_Chu_Ci-卜居.txt.json.csv: 0.17650968771791054
-data/general/後漢書_-_Hou_Han_Shu-文苑列傳上.txt.json.csv: 0.17648512436349315
-data/general/風俗通義_-_Fengsu_Tongyi-風俗通義序.txt.json.csv: 0.1764063884432765
-data/general/韓非子_-_Hanfeizi-六反.txt.json.csv: 0.17631961926316628
-data/general/越絕書_-_Yue_Jue_Shu-外傳紀策考.txt.json.csv: 0.17614433705887209
-data/general/春秋公羊傳_-_Gongyang_Zhuan-文公九年.txt.json.csv: 0.1760030965820929
-data/general/焦氏易林_-_Jiaoshi_Yilin-節之.txt.json.csv: 0.17596754879146279
-data/general/六韜_-_Liu_Tao-大禮.txt.json.csv: 0.17559247746669593
-data/general/論衡_-_Lunheng-逢遇.txt.json.csv: 0.1754037515306991
-data/general/後漢書_-_Hou_Han_Shu-虞傅蓋臧列傳.txt.json.csv: 0.1753938685002092
-data/general/白虎通德論_-_Bai_Hu_Tong-喪服.txt.json.csv: 0.17526298799580292
-data/general/後漢書_-_Hou_Han_Shu-桓榮丁鴻列傳.txt.json.csv: 0.1752583659637831
-data/general/前漢紀_-_Qian_Han_Ji-孝元皇帝紀上.txt.json.csv: 0.1752414276162702
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-二十三年.txt.json.csv: 0.17514888549110016
-data/general/鬼谷子_-_Gui_Gu_Zi-盛神法五龍.txt.json.csv: 0.17507553606817822
-data/general/焦氏易林_-_Jiaoshi_Yilin-萃之.txt.json.csv: 0.1750731342332498
-data/general/韓非子_-_Hanfeizi-八說.txt.json.csv: 0.1749729959223304
-data/general/漢書_-_Han_Shu-酷吏傳.txt.json.csv: 0.174940010361296
-data/general/漢書_-_Han_Shu-五行志下之上.txt.json.csv: 0.17490541017864036
-data/general/國語_-_Guo_Yu-越語下.txt.json.csv: 0.17485693338209227
-data/general/漢書_-_Han_Shu-公孫弘卜式兒寬傳.txt.json.csv: 0.17483493720594656
-data/general/墨子_-_Mozi-尚同下.txt.json.csv: 0.1747898409747585
-data/general/尚書_-_Shang_Shu-益稷.txt.json.csv: 0.1746981526535431
-data/general/史記_-_Shiji-晉世家.txt.json.csv: 0.17443167684481625
-data/general/焦氏易林_-_Jiaoshi_Yilin-夬之.txt.json.csv: 0.1744015663357
-data/general/孔叢子_-_Kongcongzi-與從弟書.txt.json.csv: 0.17426543841091727
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-高義.txt.json.csv: 0.17401041895334274
-data/general/國語_-_Guo_Yu-晉語七.txt.json.csv: 0.1739251797748376
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-不侵.txt.json.csv: 0.17377346053929896
-data/general/尚書_-_Shang_Shu-皋陶謨.txt.json.csv: 0.17368968198755724
-data/general/論衡_-_Lunheng-答佞.txt.json.csv: 0.1736748347454158
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-知化.txt.json.csv: 0.17364817272564556
-data/general/鹽鐵論_-_Yan_Tie_Lun-刑德.txt.json.csv: 0.17353713232517137
-data/general/潛夫論_-_Qian_Fu_Lun-論榮.txt.json.csv: 0.1734925720775563
-data/general/焦氏易林_-_Jiaoshi_Yilin-震之.txt.json.csv: 0.17337491534296534
-data/general/史記_-_Shiji-律書.txt.json.csv: 0.17327141610831392
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-闔閭二年.txt.json.csv: 0.1731836333587851
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-知分.txt.json.csv: 0.17316219749348657
-data/general/史記_-_Shiji-酈生陸賈列傳.txt.json.csv: 0.1730088426181742
-data/general/後漢書_-_Hou_Han_Shu-皇后紀上.txt.json.csv: 0.17299673661260548
-data/general/鹽鐵論_-_Yan_Tie_Lun-雜論.txt.json.csv: 0.1729910427230964
-data/general/焦氏易林_-_Jiaoshi_Yilin-否之.txt.json.csv: 0.1729717278488506
-data/general/焦氏易林_-_Jiaoshi_Yilin-姤之.txt.json.csv: 0.17288809810003866
-data/general/論衡_-_Lunheng-治期.txt.json.csv: 0.17288478221863315
-data/general/鹽鐵論_-_Yan_Tie_Lun-遵道.txt.json.csv: 0.17285990530040082
-data/general/焦氏易林_-_Jiaoshi_Yilin-蹇之.txt.json.csv: 0.17270993493186454
-data/general/吳子_-_Wu_Zi-圖國.txt.json.csv: 0.1726598971253951
-data/general/管子_-_Guanzi-大匡.txt.json.csv: 0.17262968689255015
-data/general/春秋左傳_-_Chun_Qiu_Zuo_Zhuan-襄公三十一年.txt.json.csv: 0.17258934438956744
-data/general/白虎通德論_-_Bai_Hu_Tong-姓名.txt.json.csv: 0.17257302156046192
-data/general/禮記_-_Liji-曾子問.txt.json.csv: 0.17256726905120087
-data/general/孫子兵法_-_The_Art_of_War-虛實.txt.json.csv: 0.172457926057239
-data/general/鹽鐵論_-_Yan_Tie_Lun-國疾.txt.json.csv: 0.17243374139537945
-data/general/後漢書_-_Hou_Han_Shu-班彪列傳上.txt.json.csv: 0.1723623352856432
-data/general/商君書_-_Shang_Jun_Shu-開塞.txt.json.csv: 0.17235981438085898
-data/general/春秋公羊傳_-_Gongyang_Zhuan-莊公元年.txt.json.csv: 0.1722989748337226
-data/general/史記_-_Shiji-楚世家.txt.json.csv: 0.17223787005390429
-data/general/孔子家語_-_Kongzi_Jiayu-始誅.txt.json.csv: 0.17219927517926337
-data/general/史記_-_Shiji-淮南衡山列傳.txt.json.csv: 0.17217873295753183
-data/general/逸周書_-_Lost_Book_of_Zhou-官人解.txt.json.csv: 0.1721272350300173
-data/general/漢書_-_Han_Shu-蕭望之傳.txt.json.csv: 0.17188115357447079
-data/general/漢書_-_Han_Shu-爰盎晁錯傳.txt.json.csv: 0.17182102343983066
-data/general/管子_-_Guanzi-輕重丁.txt.json.csv: 0.17161843430902593
-data/general/後漢書_-_Hou_Han_Shu-朱樂何列傳.txt.json.csv: 0.1714023394136438
-data/general/前漢紀_-_Qian_Han_Ji-高祖皇帝紀三.txt.json.csv: 0.17134885984068474
-data/general/春秋穀梁傳_-_Guliang_Zhuan-隱公元年.txt.json.csv: 0.17119359875012732
-data/general/焦氏易林_-_Jiaoshi_Yilin-革之.txt.json.csv: 0.17114528485291722
-data/general/焦氏易林_-_Jiaoshi_Yilin-鼎之.txt.json.csv: 0.17114525283928503
-data/general/鹽鐵論_-_Yan_Tie_Lun-申韓.txt.json.csv: 0.1711146175309008
-data/general/漢書_-_Han_Shu-何武王嘉師丹傳.txt.json.csv: 0.171070613303427
-data/general/鶡冠子_-_He_Guan_Zi-王鈇.txt.json.csv: 0.17099980661854944
-data/general/史記_-_Shiji-周本紀.txt.json.csv: 0.17082669107272955
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-天道無二.txt.json.csv: 0.17080522614551025
-data/general/漢書_-_Han_Shu-佞幸傳.txt.json.csv: 0.17079076839767496
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-下賢.txt.json.csv: 0.17076731875065515
-data/general/孔子家語_-_Kongzi_Jiayu-儒行解.txt.json.csv: 0.1707313011141143
-data/general/鹽鐵論_-_Yan_Tie_Lun-憂邊.txt.json.csv: 0.17068863960118458
-data/general/孔叢子_-_Kongcongzi-刑論.txt.json.csv: 0.17061712917603264
-data/general/黃帝內經_-_Huangdi_Neijing-官能.txt.json.csv: 0.17039897421356592
-data/general/後漢書_-_Hou_Han_Shu-循吏列傳.txt.json.csv: 0.17029010942379166
-data/general/墨子_-_Mozi-非樂上.txt.json.csv: 0.1702468293024229
-data/general/管子_-_Guanzi-問.txt.json.csv: 0.17024664417552607
-data/general/後漢書_-_Hou_Han_Shu-申屠剛鮑永郅惲列傳.txt.json.csv: 0.17024561797746968
-data/general/漢書_-_Han_Shu-外戚傳下.txt.json.csv: 0.1702378673815393
-data/general/前漢紀_-_Qian_Han_Ji-孝宣皇帝紀一.txt.json.csv: 0.1699695740417455
-data/general/黃帝內經_-_Huangdi_Neijing-賊風.txt.json.csv: 0.16983572052646675
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-闔閭元年.txt.json.csv: 0.1698290339366029
-data/general/越絕書_-_Yue_Jue_Shu-吳內傳.txt.json.csv: 0.16978801711049568
-data/general/焦氏易林_-_Jiaoshi_Yilin-漸之.txt.json.csv: 0.16971019480972852
-data/general/漢書_-_Han_Shu-蕭何曹參傳.txt.json.csv: 0.16966025956294417
-data/general/後漢書_-_Hou_Han_Shu-鄧張徐張胡列傳.txt.json.csv: 0.16946454910899963
-data/general/黃帝內經_-_Huangdi_Neijing-方盛衰論.txt.json.csv: 0.1694507146466804
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-闔閭三年.txt.json.csv: 0.16923345894840322
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-壅塞.txt.json.csv: 0.16917732343908692
-data/general/新書_-_Xin_Shu-先醒.txt.json.csv: 0.16915854196290486
-data/general/焦氏易林_-_Jiaoshi_Yilin-觀之.txt.json.csv: 0.169024739853077
-data/general/老子河上公章句_-_Heshanggong_Laozi-養身.txt.json.csv: 0.16898224277585072
-data/general/論語_-_The_Analects-季氏.txt.json.csv: 0.16871929510535216
-data/general/孔子家語_-_Kongzi_Jiayu-終記解.txt.json.csv: 0.1687162835760178
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-誠廉.txt.json.csv: 0.1687068702475591
-data/general/論衡_-_Lunheng-恢國.txt.json.csv: 0.16866543249626023
-data/general/禮記_-_Liji-祭義.txt.json.csv: 0.16858764400028706
-data/general/鹽鐵論_-_Yan_Tie_Lun-地廣.txt.json.csv: 0.16845517919260855
-data/general/尚書_-_Shang_Shu-金滕.txt.json.csv: 0.16837642962615915
-data/general/戰國策_-_Zhan_Guo_Ce-中山策.txt.json.csv: 0.1682684090263655
-data/general/焦氏易林_-_Jiaoshi_Yilin-坎之.txt.json.csv: 0.1682616514141511
-data/general/論衡_-_Lunheng-須頌.txt.json.csv: 0.16816511554403185
-data/general/焦氏易林_-_Jiaoshi_Yilin-艮之.txt.json.csv: 0.1681549389053761
-data/general/尉繚子_-_Wei_Liao_Zi-制談.txt.json.csv: 0.1680979266736198
-data/general/管子_-_Guanzi-七法.txt.json.csv: 0.16793753490142654
-data/general/莊子_-_Zhuangzi-刻意.txt.json.csv: 0.1679064247573556
-data/general/論衡_-_Lunheng-佚文.txt.json.csv: 0.16789906352335854
-data/general/史記_-_Shiji-外戚世家.txt.json.csv: 0.16776190844325262
-data/general/焦氏易林_-_Jiaoshi_Yilin-解之.txt.json.csv: 0.16749882891610213
-data/general/太玄經_-_Tai_Xuan_Jing-太玄攡.txt.json.csv: 0.1674928436419457
-data/general/楚辭_-_Chu_Ci-天問.txt.json.csv: 0.16745019158223412
-data/general/後漢書_-_Hou_Han_Shu-蘇竟楊厚列傳上.txt.json.csv: 0.16737081216495822
-data/general/墨子_-_Mozi-非攻中.txt.json.csv: 0.16731314214740187
-data/general/中論_-_Zhong_Lun-爵祿.txt.json.csv: 0.16724835595083457
-data/general/焦氏易林_-_Jiaoshi_Yilin-蒙之.txt.json.csv: 0.16722428796404887
-data/general/吳子_-_Wu_Zi-治兵.txt.json.csv: 0.16720720103591694
-data/general/鹽鐵論_-_Yan_Tie_Lun-論誹.txt.json.csv: 0.16712798674913662
-data/general/公孫龍子_-_Gongsunlongzi-通變論.txt.json.csv: 0.16707014515715846
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-務大.txt.json.csv: 0.16706698778545867
-data/general/鹽鐵論_-_Yan_Tie_Lun-利議.txt.json.csv: 0.16692908241775367
-data/general/孔子家語_-_Kongzi_Jiayu-執轡.txt.json.csv: 0.1669265700701641
-data/general/焦氏易林_-_Jiaoshi_Yilin-渙之.txt.json.csv: 0.16692451238986933
-data/general/漢書_-_Han_Shu-王莽傳下.txt.json.csv: 0.1668437414454167
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-玉杯.txt.json.csv: 0.16677698700782415
-data/general/列女傳_-_Lie_Nü_Zhuan-陳辯女.txt.json.csv: 0.16655911574769394
-data/general/老子河上公章句_-_Heshanggong_Laozi-象元.txt.json.csv: 0.16655466992076245
-data/general/逸周書_-_Lost_Book_of_Zhou-度訓解.txt.json.csv: 0.1665514682882076
-data/general/越絕書_-_Yue_Jue_Shu-外傳本事.txt.json.csv: 0.16654689062962913
-data/general/前漢紀_-_Qian_Han_Ji-孝元皇帝紀下.txt.json.csv: 0.16644527386622932
-data/general/焦氏易林_-_Jiaoshi_Yilin-益之.txt.json.csv: 0.16635998995259416
-data/general/前漢紀_-_Qian_Han_Ji-孝平皇帝紀.txt.json.csv: 0.1662881817649362
-data/general/漢書_-_Han_Shu-公孫劉田王楊蔡陳鄭傳.txt.json.csv: 0.16621015533029004
-data/general/西京雜記_-_Xijing_Zaji-第三.txt.json.csv: 0.16617988591771693
-data/general/墨子_-_Mozi-非命下.txt.json.csv: 0.1661518387039617
-data/general/白虎通德論_-_Bai_Hu_Tong-號.txt.json.csv: 0.16604384388346458
-data/general/焦氏易林_-_Jiaoshi_Yilin-升之.txt.json.csv: 0.16600461860435262
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-達鬱.txt.json.csv: 0.16593220023701338
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-勾踐七年.txt.json.csv: 0.16585296660704565
-data/general/漢書_-_Han_Shu-薛宣朱博傳.txt.json.csv: 0.16583821532417858
-data/general/漢書_-_Han_Shu-外戚傳上.txt.json.csv: 0.16581905217092963
-data/general/焦氏易林_-_Jiaoshi_Yilin-乾之.txt.json.csv: 0.16577589106447863
-data/general/孔叢子_-_Kongcongzi-論勢.txt.json.csv: 0.16572630128314117
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-召類.txt.json.csv: 0.16566423644992334
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-悔過.txt.json.csv: 0.1655423336707163
-data/general/中論_-_Zhong_Lun-佚文.txt.json.csv: 0.16551451314332577
-data/general/新書_-_Xin_Shu-保傅.txt.json.csv: 0.16528678864472007
-data/general/難經_-_Nan_Jing-虛實邪正.txt.json.csv: 0.1652769446718232
-data/general/焦氏易林_-_Jiaoshi_Yilin-大壯之.txt.json.csv: 0.16519086677795336
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-舉難.txt.json.csv: 0.1651854321268014
-data/general/白虎通德論_-_Bai_Hu_Tong-崩薨.txt.json.csv: 0.16518331489765523
-data/general/論衡_-_Lunheng-異虛.txt.json.csv: 0.1651320414795639
-data/general/大戴禮記_-_Da_Dai_Li_Ji-禮察.txt.json.csv: 0.16508341955430775
-data/general/漢書_-_Han_Shu-王莽傳中.txt.json.csv: 0.16494863374495797
-data/general/商君書_-_Shang_Jun_Shu-慎法.txt.json.csv: 0.16494227332519798
-data/general/管子_-_Guanzi-立政九敗解.txt.json.csv: 0.16490700516762793
-data/general/論衡_-_Lunheng-案書.txt.json.csv: 0.16486620348662903
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-慎大.txt.json.csv: 0.16483548242493726
-data/general/焦氏易林_-_Jiaoshi_Yilin-復之.txt.json.csv: 0.16478396660654415
-data/general/大戴禮記_-_Da_Dai_Li_Ji-曾子制言中.txt.json.csv: 0.16471232542181666
-data/general/列女傳_-_Lie_Nü_Zhuan-漢趙飛燕.txt.json.csv: 0.16464790441465776
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-本味.txt.json.csv: 0.164643683297209
-data/general/鬼谷子_-_Gui_Gu_Zi-權篇.txt.json.csv: 0.1646394076338982
-data/general/焦氏易林_-_Jiaoshi_Yilin-未濟之.txt.json.csv: 0.164638892424024
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-察今.txt.json.csv: 0.16461467532124913
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-精通.txt.json.csv: 0.1645688885205331
-data/general/漢書_-_Han_Shu-游俠傳.txt.json.csv: 0.16449672414758812
-data/general/前漢紀_-_Qian_Han_Ji-高祖皇帝紀四.txt.json.csv: 0.16449021382256654
-data/general/後漢書_-_Hou_Han_Shu-郭符許列傳.txt.json.csv: 0.16440995283787235
-data/general/漢書_-_Han_Shu-元后傳.txt.json.csv: 0.16427749861325286
-data/general/漢書_-_Han_Shu-魏相丙吉傳.txt.json.csv: 0.16424415845175877
-data/general/漢書_-_Han_Shu-景十三王傳.txt.json.csv: 0.16422317752417123
-data/general/鶡冠子_-_He_Guan_Zi-備知.txt.json.csv: 0.16414603240254258
-data/general/中論_-_Zhong_Lun-法象.txt.json.csv: 0.16405776183416249
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-當務.txt.json.csv: 0.1640329850285955
-data/general/焦氏易林_-_Jiaoshi_Yilin-中孚之.txt.json.csv: 0.16400344238426728
-data/general/焦氏易林_-_Jiaoshi_Yilin-恆之.txt.json.csv: 0.16397180977930906
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-同類相動.txt.json.csv: 0.16390415380270124
-data/general/新書_-_Xin_Shu-胎教.txt.json.csv: 0.1637899522290949
-data/general/鹽鐵論_-_Yan_Tie_Lun-執務.txt.json.csv: 0.16377278226017256
-data/general/論衡_-_Lunheng-吉驗.txt.json.csv: 0.1637670117828543
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-應言.txt.json.csv: 0.16376483412052945
-data/general/戰國策_-_Zhan_Guo_Ce-宋衛策.txt.json.csv: 0.16371105104199724
-data/general/論衡_-_Lunheng-物勢.txt.json.csv: 0.16367156374552957
-data/general/漢書_-_Han_Shu-循吏傳.txt.json.csv: 0.16360971808764213
-data/general/焦氏易林_-_Jiaoshi_Yilin-睽之.txt.json.csv: 0.16358367470669422
-data/general/漢書_-_Han_Shu-韋賢傳.txt.json.csv: 0.16358225360525552
-data/general/大戴禮記_-_Da_Dai_Li_Ji-誥志.txt.json.csv: 0.16357878142173085
-data/general/吳子_-_Wu_Zi-應變.txt.json.csv: 0.1634320390945263
-data/general/史記_-_Shiji-齊太公世家.txt.json.csv: 0.16343157827638283
-data/general/春秋公羊傳_-_Gongyang_Zhuan-僖公元年.txt.json.csv: 0.16327694115893773
-data/general/墨子_-_Mozi-經上.txt.json.csv: 0.16327596157396884
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-淫辭.txt.json.csv: 0.163186944297354
-data/general/後漢書_-_Hou_Han_Shu-李王鄧來列傳.txt.json.csv: 0.1631247458502943
-data/general/春秋公羊傳_-_Gongyang_Zhuan-閔公二年.txt.json.csv: 0.16309549293645828
-data/general/六韜_-_Liu_Tao-絕道.txt.json.csv: 0.16303733122463238
-data/general/焦氏易林_-_Jiaoshi_Yilin-井之.txt.json.csv: 0.1630091183826014
-data/general/史記_-_Shiji-宋微子世家.txt.json.csv: 0.1629856561357023
-data/general/前漢紀_-_Qian_Han_Ji-孝武皇帝紀五.txt.json.csv: 0.16298235879638684
-data/general/周易_-_Book_of_Changes-坤.txt.json.csv: 0.16289934440153608
-data/general/焦氏易林_-_Jiaoshi_Yilin-比之.txt.json.csv: 0.16289684383789854
-data/general/後漢書_-_Hou_Han_Shu-宦者列傳.txt.json.csv: 0.16287096556030473
-data/general/管子_-_Guanzi-幼官.txt.json.csv: 0.16282927719164095
-data/general/老子河上公章句_-_Heshanggong_Laozi-無源.txt.json.csv: 0.16274611992945945
-data/general/漢書_-_Han_Shu-地理志下.txt.json.csv: 0.16242391718645877
-data/general/墨子_-_Mozi-修身.txt.json.csv: 0.1623474482117146
-data/general/鹽鐵論_-_Yan_Tie_Lun-殊路.txt.json.csv: 0.16224491665588783
-data/general/六韜_-_Liu_Tao-臨境.txt.json.csv: 0.16218689300053027
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-義賞.txt.json.csv: 0.16206297942986744
-data/general/潛夫論_-_Qian_Fu_Lun-讚學.txt.json.csv: 0.16200320479030694
-data/general/韓非子_-_Hanfeizi-問辯.txt.json.csv: 0.16191123510897595
-data/general/漢書_-_Han_Shu-張湯傳.txt.json.csv: 0.16149564201163613
-data/general/吳越春秋_-_Wu_Yue_Chun_Qiu-越王無余外傳.txt.json.csv: 0.16135193821349253
-data/general/春秋公羊傳_-_Gongyang_Zhuan-宣公十五年.txt.json.csv: 0.16116582113074374
-data/general/論衡_-_Lunheng-量知.txt.json.csv: 0.1611103929225424
-data/general/論衡_-_Lunheng-語增.txt.json.csv: 0.1610403072008011
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-異寶.txt.json.csv: 0.16098180691247418
-data/general/論衡_-_Lunheng-辨祟.txt.json.csv: 0.16087979394671406
-data/general/管子_-_Guanzi-幼官圖.txt.json.csv: 0.1608525476152115
-data/general/鹽鐵論_-_Yan_Tie_Lun-結和.txt.json.csv: 0.16080035103032875
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-身之養重於義.txt.json.csv: 0.160784358367146
-data/general/後漢書_-_Hou_Han_Shu-張王种陳列傳.txt.json.csv: 0.16075675404046452
-data/general/列女傳_-_Lie_Nü_Zhuan-衛靈夫人.txt.json.csv: 0.1607219201122796
-data/general/前漢紀_-_Qian_Han_Ji-孝昭皇帝紀.txt.json.csv: 0.160553753934249
-data/general/白虎通德論_-_Bai_Hu_Tong-四時.txt.json.csv: 0.16051153099187174
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-勸學.txt.json.csv: 0.16040150160220973
-data/general/漢書_-_Han_Shu-王商史丹傅喜傳.txt.json.csv: 0.16039888066709088
-data/general/韓非子_-_Hanfeizi-主道.txt.json.csv: 0.16031731133597402
-data/general/後漢書_-_Hou_Han_Shu-鄧寇列傳.txt.json.csv: 0.16030330083853228
-data/general/孔子家語_-_Kongzi_Jiayu-屈節解.txt.json.csv: 0.1602194810607936
-data/general/史記_-_Shiji-田敬仲完世家.txt.json.csv: 0.16021341060446384
-data/general/鹽鐵論_-_Yan_Tie_Lun-論功.txt.json.csv: 0.16014781910574324
-data/general/史記_-_Shiji-貨殖列傳.txt.json.csv: 0.16009694948978268
-data/general/前漢紀_-_Qian_Han_Ji-孝武皇帝紀六.txt.json.csv: 0.15993994622404256
-data/general/老子河上公章句_-_Heshanggong_Laozi-異俗.txt.json.csv: 0.1598822298585249
-data/general/漢書_-_Han_Shu-張耳陳餘傳.txt.json.csv: 0.1597660380686175
-data/general/管子_-_Guanzi-君臣上.txt.json.csv: 0.15970907288448624
-data/general/論衡_-_Lunheng-超奇.txt.json.csv: 0.1596324161519673
-data/general/素書_-_Su_Shu-原始章.txt.json.csv: 0.15958074883381018
-data/general/白虎通德論_-_Bai_Hu_Tong-三軍.txt.json.csv: 0.15943934688798148
-data/general/孔叢子_-_Kongcongzi-對魏王.txt.json.csv: 0.15940423673185794
-data/general/史記_-_Shiji-儒林列傳.txt.json.csv: 0.15937746408753542
-data/general/焦氏易林_-_Jiaoshi_Yilin-晉之.txt.json.csv: 0.15936757858268386
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-求人.txt.json.csv: 0.15931344034711623
-data/general/春秋繁露_-_Chun_Qiu_Fan_Lu-天地陰陽.txt.json.csv: 0.1592865156513345
-data/general/潛夫論_-_Qian_Fu_Lun-明闇.txt.json.csv: 0.15920820943118263
-data/general/鹽鐵論_-_Yan_Tie_Lun-論菑.txt.json.csv: 0.1592015968779451
-data/general/西京雜記_-_Xijing_Zaji-第四.txt.json.csv: 0.15920021180883176
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-不苟.txt.json.csv: 0.159178853141517
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-勿躬.txt.json.csv: 0.15915886208013216
-data/general/春秋公羊傳_-_Gongyang_Zhuan-莊公三十二年.txt.json.csv: 0.1590462311860867
-data/general/漢書_-_Han_Shu-文帝紀.txt.json.csv: 0.15896698317633076
-data/general/焦氏易林_-_Jiaoshi_Yilin-訟之.txt.json.csv: 0.15887487839588812
-data/general/焦氏易林_-_Jiaoshi_Yilin-屯之.txt.json.csv: 0.1587344581518154
-data/general/管子_-_Guanzi-權修.txt.json.csv: 0.15870473954754508
-data/general/公孫龍子_-_Gongsunlongzi-名實論.txt.json.csv: 0.1586997904039453
-data/general/焦氏易林_-_Jiaoshi_Yilin-豐之.txt.json.csv: 0.1585183025920855
-data/general/焦氏易林_-_Jiaoshi_Yilin-兌之.txt.json.csv: 0.15841335229309986
-data/general/史記_-_Shiji-孝文本紀.txt.json.csv: 0.15821049208841667
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-貴信.txt.json.csv: 0.1581765724946101
-data/general/禮記_-_Liji-禮器.txt.json.csv: 0.15817464612285853
-data/general/焦氏易林_-_Jiaoshi_Yilin-既濟之.txt.json.csv: 0.15812762986185058
-data/general/尚書_-_Shang_Shu-君奭.txt.json.csv: 0.15810798438791981
-data/general/列女傳_-_Lie_Nü_Zhuan-齊義繼母.txt.json.csv: 0.15801949703633433
-data/general/前漢紀_-_Qian_Han_Ji-孝哀皇帝紀上.txt.json.csv: 0.15800167895247724
-data/general/後漢書_-_Hou_Han_Shu-樊宏陰識列傳.txt.json.csv: 0.157980262131784
-data/general/漢書_-_Han_Shu-王莽傳上.txt.json.csv: 0.15797653200794648
-data/general/鹽鐵論_-_Yan_Tie_Lun-未通.txt.json.csv: 0.15792377030071206
-data/general/商君書_-_Shang_Jun_Shu-更法.txt.json.csv: 0.15790659136580884
-data/general/國語_-_Guo_Yu-越語上.txt.json.csv: 0.15788342076670053
-data/general/公孫龍子_-_Gongsunlongzi-指物論.txt.json.csv: 0.1578450707548728
-data/general/鹽鐵論_-_Yan_Tie_Lun-世務.txt.json.csv: 0.15781167703216184
-data/general/墨子_-_Mozi-法儀.txt.json.csv: 0.15777170223889644
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-制樂.txt.json.csv: 0.15776717193279266
-data/general/鬼谷子_-_Gui_Gu_Zi-揣篇.txt.json.csv: 0.15769090257875312
-data/general/潛夫論_-_Qian_Fu_Lun-明忠.txt.json.csv: 0.15765303200273004
-data/general/白虎通德論_-_Bai_Hu_Tong-嫁娶.txt.json.csv: 0.1575926708714404
-data/general/漢書_-_Han_Shu-趙尹韓張兩王傳.txt.json.csv: 0.15743228858564018
-data/general/鬼谷子_-_Gui_Gu_Zi-反應.txt.json.csv: 0.15739963556458408
-data/general/戰國策_-_Zhan_Guo_Ce-齊五.txt.json.csv: 0.1573298614867423
-data/general/太玄經_-_Tai_Xuan_Jing-太玄圖.txt.json.csv: 0.15722090792620416
-data/general/焦氏易林_-_Jiaoshi_Yilin-咸之.txt.json.csv: 0.1571349496031851
-data/general/鹽鐵論_-_Yan_Tie_Lun-毀學.txt.json.csv: 0.15686808214125955
-data/general/論衡_-_Lunheng-亂龍.txt.json.csv: 0.15682789742235193
-data/general/禮記_-_Liji-儒行.txt.json.csv: 0.15680506580310896
-data/general/論衡_-_Lunheng-累害.txt.json.csv: 0.15675348064860162
-data/general/焦氏易林_-_Jiaoshi_Yilin-賁之.txt.json.csv: 0.1567520219503249
-data/general/列女傳_-_Lie_Nü_Zhuan-魯季敬姜.txt.json.csv: 0.15663228871106655
-data/general/鬼谷子_-_Gui_Gu_Zi-中經.txt.json.csv: 0.15659110705245927
-data/general/白虎通德論_-_Bai_Hu_Tong-卷九.txt.json.csv: 0.156464531427501
-data/general/黃帝內經_-_Huangdi_Neijing-寶命全形論.txt.json.csv: 0.15625938892773336
-data/general/逸周書_-_Lost_Book_of_Zhou-酆保解.txt.json.csv: 0.1562493969294351
-data/general/墨子_-_Mozi-親士.txt.json.csv: 0.1562351020193014
-data/general/漢書_-_Han_Shu-食貨志上.txt.json.csv: 0.15622976302022842
-data/general/列女傳_-_Lie_Nü_Zhuan-齊孤逐女.txt.json.csv: 0.15621176375011692
-data/general/焦氏易林_-_Jiaoshi_Yilin-大畜之.txt.json.csv: 0.15620162990269382
-data/general/前漢紀_-_Qian_Han_Ji-孝景皇帝紀.txt.json.csv: 0.15618012222597852
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-尊師.txt.json.csv: 0.15609851974774397
-data/general/後漢書_-_Hou_Han_Shu-馬援列傳.txt.json.csv: 0.1560367492539695
-data/general/春秋左傳_-_Chun_Qiu_Zuo_Zhuan-昭公十二年.txt.json.csv: 0.1560118799720419
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-貴當.txt.json.csv: 0.15594114473854503
-data/general/管子_-_Guanzi-中匡.txt.json.csv: 0.15593466800674846
-data/general/老子河上公章句_-_Heshanggong_Laozi-任成.txt.json.csv: 0.15587651073614514
-data/general/焦氏易林_-_Jiaoshi_Yilin-小過之.txt.json.csv: 0.15576106043455776
-data/general/潛夫論_-_Qian_Fu_Lun-救邊.txt.json.csv: 0.15570875972764706
-data/general/焦氏易林_-_Jiaoshi_Yilin-無妄之.txt.json.csv: 0.15569497603741383
-data/general/史記_-_Shiji-魯周公世家.txt.json.csv: 0.15566088329583072
-data/general/漢書_-_Han_Shu-霍光金日磾傳.txt.json.csv: 0.15559450439982925
-data/general/鹽鐵論_-_Yan_Tie_Lun-輕重.txt.json.csv: 0.15556414659664225
-data/general/春秋左傳_-_Chun_Qiu_Zuo_Zhuan-昭公元年.txt.json.csv: 0.1555586194284626
-data/general/管子_-_Guanzi-君臣下.txt.json.csv: 0.15551135009691294
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-開春.txt.json.csv: 0.15549971746727018
-data/general/後漢書_-_Hou_Han_Shu-郭杜孔張廉王蘇羊賈陸列傳.txt.json.csv: 0.1553846199682347
-data/general/史記_-_Shiji-越王句踐世家.txt.json.csv: 0.15537523578713336
-data/general/司馬法_-_Si_Ma_Fa-定爵.txt.json.csv: 0.1553480985344824
-data/general/鬻子_-_Yuzi-撰吏五帝三王傳政乙第五.txt.json.csv: 0.15530567534399894
-data/general/鹽鐵論_-_Yan_Tie_Lun-論鄒.txt.json.csv: 0.1551301012452317
-data/general/後漢書_-_Hou_Han_Shu-儒林列傳上.txt.json.csv: 0.15506953902752674
-data/general/史記_-_Shiji-游俠列傳.txt.json.csv: 0.15505621583688434
-data/general/呂氏春秋_-_Lü_Shi_Chun_Qiu-慎勢.txt.json.csv: 0.1550430335959391
-data/general/鹽鐵論_-_Yan_Tie_Lun-周秦.txt.json.csv: 0.15503899335603577
-data/general/焦氏易林_-_Jiaoshi_Yilin-頤之.txt.json.csv: 0.1550196059695567
-data/general/管子_-_Guanzi-牧民.txt.json.csv: 0.154944922702316
-data/general/六韜_-_Liu_Tao-明傳.txt.json.csv: 0.15493310722273682
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-齊物論.txt: 0.9999999999999999
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-天下.txt: 0.3986910463703996
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-天道.txt: 0.3835247343094706
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-天地.txt: 0.37779365894462114
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-天運.txt: 0.3510457379720148
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-外物.txt: 0.3483746825739015
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-至樂.txt: 0.3447591735456549
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-讓王.txt: 0.344194870623603
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-達生.txt: 0.3430099319304324
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-說劍.txt: 0.340465736090035
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-馬蹄.txt: 0.336988210448157
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-山木.txt: 0.33689675574868855
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-漁父.txt: 0.3365903599345752
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-寓言.txt: 0.3364897677777167
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-秋水.txt: 0.33223069945173855
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-繕性.txt: 0.32940886220912996
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-刻意.txt: 0.3280361702591729
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-在宥.txt: 0.32565145734824236
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-則陽.txt: 0.32169829790999926
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-大宗師.txt: 0.3181428661103452
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-盜跖.txt: 0.3178856943493708
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-駢拇.txt: 0.3178856943493708
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-胠篋.txt: 0.3178856943493708
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-應帝王.txt: 0.3171813481172236
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-人間世.txt: 0.30715543914342597
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-田子方.txt: 0.30308926099770817
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-知北遊.txt: 0.30275496186739365
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-德充符.txt: 0.3023036702892726
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-養生主.txt: 0.30035041614308816
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-徐無鬼.txt: 0.2939508040325287
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-列御寇.txt: 0.2919659566586214
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-庚桑楚.txt: 0.2910335721057045
+nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-逍遙遊.txt: 0.2910335721057045
+nonsimpsave/nonsimpsave copy/公孫龍子 - Gongsunlongzi-指物論.txt: 0.2754783613608373
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-刑論.txt: 0.16162684500566724
+nonsimpsave/nonsimpsave copy/說文解字 - Shuo Wen Jie Zi-齊部.txt: 0.15181400724605412
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-齊俗訓.txt: 0.13987187210335422
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-天論.txt: 0.12950846636431204
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-正論.txt: 0.12645503208598588
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-禮論.txt: 0.12518854753786832
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-樂論.txt: 0.12346571793081572
+nonsimpsave/nonsimpsave copy/詩說 - Shi Shuo-齊.txt: 0.12092831611186818
+nonsimpsave/nonsimpsave copy/公孫龍子 - Gongsunlongzi-通變論.txt: 0.11943742226587897
+nonsimpsave/nonsimpsave copy/公孫龍子 - Gongsunlongzi-白馬論.txt: 0.11891783178341167
+nonsimpsave/nonsimpsave copy/公孫龍子 - Gongsunlongzi-堅白論.txt: 0.11856281508602028
+nonsimpsave/nonsimpsave copy/公孫龍子 - Gongsunlongzi-名實論.txt: 0.11809332293369341
+nonsimpsave/nonsimpsave copy/論衡 - Lunheng-齊世.txt: 0.11807881199937131
+nonsimpsave/nonsimpsave copy/國語 - Guo Yu-齊語.txt: 0.1112594951953092
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊女傅母.txt: 0.11122636025782454
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊靈仲子.txt: 0.11090812662304102
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊太倉女.txt: 0.11039688630017241
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊田稷母.txt: 0.11018764076385579
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊義繼母.txt: 0.11018764076385579
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊靈聲姬.txt: 0.10999476485593125
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊杞梁妻.txt: 0.10959851378993624
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊相御妻.txt: 0.10959851378993624
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊傷槐女.txt: 0.10938102197643385
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊孤逐女.txt: 0.10938102197643385
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊宿瘤女.txt: 0.10938102197643385
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊桓衛姬.txt: 0.10898986047021818
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊威虞姬.txt: 0.10898986047021818
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊孝孟姬.txt: 0.10898986047021818
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊東郭姜.txt: 0.10848197563339874
+nonsimpsave/nonsimpsave copy/東觀漢記 - Dong Guan Han Ji-齊武王縯.txt: 0.10761369409162605
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊鍾離春.txt: 0.10753898919752689
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊女徐吾.txt: 0.10597687833315876
+nonsimpsave/nonsimpsave copy/列女傳 - Lie Nü Zhuan-齊管妾婧.txt: 0.10507724016815352
+nonsimpsave/nonsimpsave copy/史記 - Shiji-齊太公世家.txt: 0.10267998307434849
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-雜訓.txt: 0.10137016431410516
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-論書.txt: 0.10066589060249821
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-論勢.txt: 0.09945238192000373
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-獨治.txt: 0.09885571509906796
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-敘書.txt: 0.09813907004152841
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-記義.txt: 0.09753478953265289
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-公儀.txt: 0.09747955903103406
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-儒服.txt: 0.0972248316055464
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-敘世.txt: 0.0972248316055464
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-答問.txt: 0.09704237230874231
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-記問.txt: 0.09704237230874231
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-執節.txt: 0.09677504056657146
+nonsimpsave/nonsimpsave copy/戰國策 - Zhan Guo Ce-齊五.txt: 0.09639563786065865
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-抗志.txt: 0.09589995528219182
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-巡守.txt: 0.09568847726739667
+nonsimpsave/nonsimpsave copy/史記 - Shiji-齊悼惠王世家.txt: 0.09561955403848095
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-嘉言.txt: 0.09560207790708401
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-公孫龍.txt: 0.09485369393159597
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-居衛.txt: 0.09387094710430058
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-鶚賦.txt: 0.0937895260935441
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-離婁下.txt: 0.09276540780158238
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-離婁上.txt: 0.09272604125044426
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-詰墨.txt: 0.0924080786443193
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-陳士義.txt: 0.09232055577990736
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-告子下.txt: 0.09171147377607947
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-盡心下.txt: 0.09127686193028525
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-萬章下.txt: 0.09127686193028525
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-盡心上.txt: 0.09123935944096308
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-萬章上.txt: 0.09123935944096308
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-問軍禮.txt: 0.09110298540951287
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-告子上.txt: 0.09079983965959915
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-對魏王.txt: 0.08999074199177977
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-楊柳賦.txt: 0.08909116237092289
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-公孫丑下.txt: 0.08852124082300479
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-公孫丑上.txt: 0.08848703213740759
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-滕文公下.txt: 0.08766014433243688
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-滕文公上.txt: 0.08762692389656364
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-梁惠王下.txt: 0.08743285060493819
+nonsimpsave/nonsimpsave copy/孟子 - Mengzi-梁惠王上.txt: 0.08739988781408561
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-蓼蟲賦.txt: 0.08606809549895413
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-連叢子下.txt: 0.08228359471607088
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-與子琳書.txt: 0.08168297207253118
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-與從弟書.txt: 0.08168297207253118
+nonsimpsave/nonsimpsave copy/孔叢子 - Kongcongzi-諫格虎賦.txt: 0.08092847315665694
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-海論.txt: 0.07511396361412025
+nonsimpsave/nonsimpsave copy/公孫龍子 - Gongsunlongzi-跡府.txt: 0.07420087922309102
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-問.txt: 0.07413984808065818
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-厥論.txt: 0.07337057380615518
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-風論.txt: 0.07310243134267777
+nonsimpsave/nonsimpsave copy/鹽鐵論 - Yan Tie Lun-大論.txt: 0.07289209492847293
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-熱論.txt: 0.07254950328928939
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-瘧論.txt: 0.07254950328928939
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-欬論.txt: 0.0717553950116312
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-痿論.txt: 0.0717553950116312
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-痺論.txt: 0.0717553950116312
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-脹論.txt: 0.0717553950116312
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-正.txt: 0.07079735865594723
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-五行.txt: 0.07070989036850703
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-五味論.txt: 0.07064206969682023
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-本病論.txt: 0.06994162333599513
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-五帝.txt: 0.06980522510353442
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-經絡論.txt: 0.06969915588320272
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-大惑論.txt: 0.06925775891371896
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-大奇論.txt: 0.06925775891371896
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-腹中論.txt: 0.06906074686905944
+nonsimpsave/nonsimpsave copy/呂氏春秋 - Lü Shi Chun Qiu-行論.txt: 0.06885980098361355
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-九鍼論.txt: 0.06844020648229882
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-刺法論.txt: 0.06793801556962384
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-刺志論.txt: 0.06793801556962384
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-刺齊論.txt: 0.06793801556962384
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-刺禁論.txt: 0.06793801556962384
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-刺要論.txt: 0.06793801556962384
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-序.txt: 0.06786808133618162
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-奇病論.txt: 0.06747718468170819
+nonsimpsave/nonsimpsave copy/鹽鐵論 - Yan Tie Lun-雜論.txt: 0.0673648068407091
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-氣穴論.txt: 0.06729918139047016
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-氣厥論.txt: 0.06729918139047016
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-勢.txt: 0.06714921447531964
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-血絡論.txt: 0.06704160052742397
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-氣府論.txt: 0.06666385309107511
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-論禮.txt: 0.06646132560839749
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-骨空論.txt: 0.06641347156545863
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-皮部論.txt: 0.06629991014639938
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-逆調論.txt: 0.06610186000310704
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-舉痛論.txt: 0.06610186000310704
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-病能論.txt: 0.06610186000310704
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-陰陽別論.txt: 0.06589686902540105
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-問禮.txt: 0.06586853073325714
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-兵法.txt: 0.06585540765345993
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-繆刺論.txt: 0.0656922112846727
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-郊問.txt: 0.06562208874078654
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-六本.txt: 0.06527750066015181
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-調經論.txt: 0.06510092216338717
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-歲露論.txt: 0.06510092216338717
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-陰陽類論.txt: 0.06490507567503748
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-五藏別論.txt: 0.06483471691955675
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-禮運.txt: 0.06476364028143604
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-五帝德.txt: 0.06471288355402534
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-辯政.txt: 0.06435930362325995
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-戒.txt: 0.06417821943954725
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-刑政.txt: 0.06413057557459997
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-五刑解.txt: 0.06406757664163498
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-經脈別論.txt: 0.06392439295543181
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-入官.txt: 0.06370469848114488
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-桓公問.txt: 0.0635346932225577
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-三恕.txt: 0.0634081468417021
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-問玉.txt: 0.06338601485601865
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-困誓.txt: 0.06330948776919935
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-觀周.txt: 0.06318968464132882
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-賢君.txt: 0.0630744064727945
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-好生.txt: 0.06300518450494359
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-辯物.txt: 0.06297868364175839
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-五儀解.txt: 0.06286974654589524
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-四時.txt: 0.06285631669145286
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-冠頌.txt: 0.06279422712926956
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-大昏解.txt: 0.06274414327016077
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-本命解.txt: 0.06272265473943008
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-王言解.txt: 0.06256954823863554
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-廟制.txt: 0.06254276781583927
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-解精微論.txt: 0.06253576966680957
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-明法.txt: 0.06251660618418224
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-致思.txt: 0.06249720279984376
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-海王.txt: 0.062417303101733
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-小問.txt: 0.062352993615792225
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-正論解.txt: 0.06219252445113109
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-相魯.txt: 0.06214552212606148
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-執轡.txt: 0.06209856202047045
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-水熱穴論.txt: 0.061883815576606556
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-本姓解.txt: 0.061853076263676275
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-立政.txt: 0.061836236075675885
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-顏回.txt: 0.061799712282843366
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-在厄.txt: 0.061799712282843366
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-儒行解.txt: 0.06178971524014214
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-長刺節論.txt: 0.06171839909476137
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-評熱病論.txt: 0.06160361158354013
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-方盛衰論.txt: 0.06152661960018561
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-太陰陽明論.txt: 0.061502938670752454
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-大匡.txt: 0.061315806519416316
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-子貢問.txt: 0.06131468710331192
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-始誅.txt: 0.06129940648613244
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-任法.txt: 0.061259746940833665
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-哀公問政.txt: 0.06112324691042436
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-九守.txt: 0.06111108670963434
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-辯樂解.txt: 0.06076836666545105
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-陰陽離合論.txt: 0.06063145107867433
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-五輔.txt: 0.06057197337343292
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-終記解.txt: 0.060488227634187035
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-示從容論.txt: 0.060471922703780386
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-著至教論.txt: 0.060471922703780386
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-天元紀大論.txt: 0.06044243277147968
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-九變.txt: 0.06039958234529541
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-地數.txt: 0.060358482822583645
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-五常政大論.txt: 0.06033605106336358
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-五運行大論.txt: 0.06033605106336358
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-弟子行.txt: 0.060315590976844906
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-正世.txt: 0.060274509720900045
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-重令.txt: 0.06007432428801269
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-法法.txt: 0.060064546972957086
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-七法.txt: 0.060064546972957086
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-屈節解.txt: 0.060018863731623406
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-徵四失論.txt: 0.06000974084827645
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-疏五過論.txt: 0.06000974084827645
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-觀鄉射.txt: 0.05947585429437942
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-治國.txt: 0.05945882844836803
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-制分.txt: 0.05911876656360662
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-六微旨大論.txt: 0.05911212195540409
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-小匡.txt: 0.05910146255715279
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-度地.txt: 0.059054320299765886
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-水地.txt: 0.059054320299765886
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-金匱真言論.txt: 0.059030966080152285
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-版法.txt: 0.05897751631565208
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-八觀.txt: 0.05891255323077336
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-至真要大論.txt: 0.05863824942048601
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-地圖.txt: 0.058562011115848314
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-小稱.txt: 0.05850898585196934
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-氣交變大論.txt: 0.05849746056893628
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-三部九候論.txt: 0.05833963118811916
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-八正神明論.txt: 0.058322645164858536
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-平人氣象論.txt: 0.05825108903307978
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-哀公.txt: 0.058193643643025435
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-通評虛實論.txt: 0.058146783561237196
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-入國.txt: 0.05812895619633355
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-中匡.txt: 0.05812895619633355
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-幼官.txt: 0.05804604130706725
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-霸言.txt: 0.05801977822768963
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-形勢.txt: 0.057917471889845105
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-六節藏象論.txt: 0.05790768146135264
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-四稱.txt: 0.05781011725670446
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-明法解.txt: 0.05770417853198879
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-上古天真論.txt: 0.05756387952953167
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-事語.txt: 0.05745015778771556
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-封禪.txt: 0.05743844490914605
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-脈要精微論.txt: 0.05736587064107077
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-陰陽應象大論.txt: 0.05729826365923509
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-君臣下.txt: 0.05722134352347847
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-樞言.txt: 0.05719717404129032
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-君臣上.txt: 0.05718679091519125
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-湯液醪醴論.txt: 0.0571756646829256
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-玉機真藏論.txt: 0.0571756646829256
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-異法方宜論.txt: 0.0571756646829256
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-牧民.txt: 0.05709915050063767
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-內業.txt: 0.05709915050063767
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-生氣通天論.txt: 0.05709750479646166
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-藏氣法時論.txt: 0.057064986973254565
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-乘馬.txt: 0.057029668599200854
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-標本病傳論.txt: 0.0569708591406905
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-法禁.txt: 0.05690551835610958
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-靈蘭秘典論.txt: 0.05677898456398115
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-地員.txt: 0.05676129596664489
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-禁藏.txt: 0.05642608592083281
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-國准.txt: 0.05642608592083281
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-國蓄.txt: 0.05642608592083281
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-霸形.txt: 0.05642608592083281
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-公西赤問.txt: 0.0563502711906139
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-寶命全形論.txt: 0.056326307726061814
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-揆度.txt: 0.0563145633530501
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-白心.txt: 0.056117854968760775
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-移精變氣論.txt: 0.05595224572478603
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-診要經終論.txt: 0.05595224572478603
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-權修.txt: 0.05566855404391817
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-六元正紀大論.txt: 0.05558206230769254
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-子路初見.txt: 0.0554055930557077
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-四氣調神大論.txt: 0.05532850221686972
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-宙合.txt: 0.05500599568529912
+nonsimpsave/nonsimpsave copy/黃帝內經 - Huangdi Neijing-四時刺逆從論.txt: 0.05499936551805719
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-版法解.txt: 0.05488629027052611
+nonsimpsave/nonsimpsave copy/列子 - Liezi-黃帝.txt: 0.05479171141517052
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-參患.txt: 0.054527389234159805
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-侈靡.txt: 0.05452738923415979
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-心術下.txt: 0.05426970786455804
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-輕重己.txt: 0.05426378233161292
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-心術上.txt: 0.054240228462803165
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-君子卷第十二.txt: 0.054135042352618734
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-問神卷第五.txt: 0.053990626341079144
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-孝至卷第十三.txt: 0.05397968067668637
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-賦.txt: 0.05396295995568564
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-問道卷第四.txt: 0.05376925919430966
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-五百卷第八.txt: 0.05374401886412803
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-問明卷第六.txt: 0.05372895448013165
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-修身卷第三.txt: 0.05366340521310805
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-輕重甲.txt: 0.05358902683812383
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-曲禮子貢問.txt: 0.053535601353036616
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-形勢解.txt: 0.05339553086612188
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-輕重丁.txt: 0.053289277822326314
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-學行卷第一.txt: 0.053127896819940096
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-輕重乙.txt: 0.05310730659809512
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-君道.txt: 0.05310068437553439
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-重黎卷第十.txt: 0.05305950707004436
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-經下.txt: 0.053040520020580254
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-經上.txt: 0.053007151984341805
+nonsimpsave/nonsimpsave copy/孔子家語 - Kongzi Jiayu-七十二弟子解.txt: 0.052956978565589986
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-吾子卷第二.txt: 0.05289927857810342
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-王霸.txt: 0.05262483358023285
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-山至數.txt: 0.05251999371840637
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-山權數.txt: 0.05251999371840637
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-君子.txt: 0.05251743181665535
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-王制.txt: 0.05250865823552559
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-先知卷第九.txt: 0.05238707665325465
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-上德.txt: 0.05236164938907356
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-寡見卷第七.txt: 0.052179314272840865
+nonsimpsave/nonsimpsave copy/揚子法言 - Yangzi Fayan-淵騫卷第十一.txt: 0.05217516648418869
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-乘馬數.txt: 0.05192102667503997
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-輕重戊.txt: 0.051913083646308665
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-魯問.txt: 0.05186416694713257
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-上義.txt: 0.051672211319257914
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-大略.txt: 0.05162996532061491
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-貴義.txt: 0.05162535784494068
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-上禮.txt: 0.05148458954522901
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-子道.txt: 0.051322560241951115
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-成相.txt: 0.051293149134662985
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-弟子職.txt: 0.05114973326889542
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-臣乘馬.txt: 0.05114973326889542
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-九守.txt: 0.05113710795320399
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-正名.txt: 0.051083134963558804
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-勸學.txt: 0.050933172901580136
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-幼官圖.txt: 0.05076421579525964
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-法行.txt: 0.05075710478805981
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-雜守.txt: 0.05055812859091929
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-天志下.txt: 0.05052560428167687
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-天志上.txt: 0.05030908925869933
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-下德.txt: 0.050258145930408726
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-臣道.txt: 0.05018967762436551
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-堯問.txt: 0.0501357273243957
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-山國軌.txt: 0.05009849064353972
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-大取.txt: 0.050005936984932234
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-三辯.txt: 0.04983883451228789
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-要略.txt: 0.04978250669125157
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-非相.txt: 0.049653727977525146
+nonsimpsave/nonsimpsave copy/慎子 - Shenzi-君臣.txt: 0.0496026002127997
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-仲尼.txt: 0.049580951482252354
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-定法.txt: 0.04956224175723468
+nonsimpsave/nonsimpsave copy/慎子 - Shenzi-君人.txt: 0.04956199367985844
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-公輸.txt: 0.049365267056032974
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-備水.txt: 0.049324096216958865
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-守道.txt: 0.04925430419186795
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-致士.txt: 0.04924464984934237
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-小取.txt: 0.04914194717564374
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-上仁.txt: 0.049090424980120534
+nonsimpsave/nonsimpsave copy/列子 - Liezi-湯問.txt: 0.049080237375581814
+nonsimpsave/nonsimpsave copy/列子 - Liezi-天瑞.txt: 0.04901351021151669
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-親士.txt: 0.04896321974445808
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-修身.txt: 0.04891543749485844
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-不苟.txt: 0.048844793049619334
+nonsimpsave/nonsimpsave copy/慎子 - Shenzi-威德.txt: 0.048812425772378
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-脩身.txt: 0.0487858834166265
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-彊國.txt: 0.048734151724682
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-微明.txt: 0.04873335157509022
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-號令.txt: 0.04871696638738151
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-八經.txt: 0.04871346949463737
+nonsimpsave/nonsimpsave copy/列子 - Liezi-說符.txt: 0.04870615273218575
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-自然.txt: 0.04869428316062678
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-大體.txt: 0.048682043515793805
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-法儀.txt: 0.048680406343001796
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-公孟.txt: 0.04863853426478133
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-道原.txt: 0.048482705210143855
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-用人.txt: 0.04838608296733404
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-天志中.txt: 0.048337281165994964
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-議兵.txt: 0.0481412118568308
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-富國.txt: 0.0481412118568308
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-三守.txt: 0.04813386904153255
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-非命下.txt: 0.04811939362267837
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-非命上.txt: 0.04809447406793654
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-觀行.txt: 0.048085807608844795
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-難一.txt: 0.04806094702018713
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-難二.txt: 0.048015723397997395
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-七患.txt: 0.04798308024446165
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-難三.txt: 0.04796801465066601
+nonsimpsave/nonsimpsave copy/列子 - Liezi-仲尼.txt: 0.047964477749559455
+nonsimpsave/nonsimpsave copy/列子 - Liezi-力命.txt: 0.04794736717363467
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-儒效.txt: 0.04793244326208379
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-難四.txt: 0.047917554438935556
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-經說下.txt: 0.04780461200595421
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-備穴.txt: 0.04778059992567502
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-備突.txt: 0.04778059992567502
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-備梯.txt: 0.04778059992567502
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-經說上.txt: 0.04778017805869469
+nonsimpsave/nonsimpsave copy/文子 - Wenzi-精誠.txt: 0.047751038319938766
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-難言.txt: 0.04774627226171143
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-十過.txt: 0.04772605828348123
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-天文訓.txt: 0.0476738645562739
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-辭過.txt: 0.04767279971259073
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-解蔽.txt: 0.04767228078031348
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-說難.txt: 0.047550459000027766
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-非攻下.txt: 0.04754835062604021
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-非攻上.txt: 0.047524307320891516
+nonsimpsave/nonsimpsave copy/慎子 - Shenzi-知忠.txt: 0.0474659442284772
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-有度.txt: 0.04739994989078553
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-說疑.txt: 0.04722593436960007
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-難勢.txt: 0.04714941306574192
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-耕柱.txt: 0.04712959356577405
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-制分.txt: 0.047124538463711584
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-主道.txt: 0.047114393982856974
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-五蠹.txt: 0.04707198166057404
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-非命中.txt: 0.0470217940033603
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-八說.txt: 0.04700349243267255
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-顯學.txt: 0.046988248872680376
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-明鬼下.txt: 0.04682783138224322
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-問辯.txt: 0.04679695706990262
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-尚同下.txt: 0.04678463171201847
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-尚賢下.txt: 0.04678463171201847
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-所染.txt: 0.04676402588499263
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-尚同上.txt: 0.046761727891111916
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-尚賢上.txt: 0.046761727891111916
+nonsimpsave/nonsimpsave copy/列子 - Liezi-楊朱.txt: 0.046739790913180305
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-備內.txt: 0.04670996767095612
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-非儒下.txt: 0.04663464842505718
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-功名.txt: 0.046632398683442176
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-非樂上.txt: 0.04661196406896411
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-愛臣.txt: 0.04658636451646169
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-說林訓.txt: 0.04658056698155024
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-節用上.txt: 0.046551744017038536
+nonsimpsave/nonsimpsave copy/慎子 - Shenzi-逸文.txt: 0.04652046704531656
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-心度.txt: 0.04650648553547794
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-揚權.txt: 0.04650648553547794
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-和氏.txt: 0.04650648553547794
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-非攻中.txt: 0.04648851633027109
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-榮辱.txt: 0.04647617812596819
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-人主.txt: 0.04638525574682494
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-問田.txt: 0.04620420383375529
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-六反.txt: 0.04620420383375529
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-七臣七主.txt: 0.04620014049773742
+nonsimpsave/nonsimpsave copy/列子 - Liezi-周穆王.txt: 0.04614690241633232
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-兼愛下.txt: 0.046135732526291905
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-兼愛上.txt: 0.0461137681265172
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-忠孝.txt: 0.04608385925740676
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-節葬下.txt: 0.04605597584968197
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-本經訓.txt: 0.04600843630185688
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-性惡.txt: 0.045961048063537256
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-宥坐.txt: 0.045961048063537256
+nonsimpsave/nonsimpsave copy/慎子 - Shenzi-德立.txt: 0.04592551224534736
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-飭令.txt: 0.04592531151598424
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-說山訓.txt: 0.045867879716120545
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-解老.txt: 0.04580781832771798
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-尚賢中.txt: 0.045773981648163646
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-尚同中.txt: 0.045773981648163646
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-兵略訓.txt: 0.04575533950367823
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-旗幟.txt: 0.045731991624267415
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-八姦.txt: 0.04572066809703217
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-道應訓.txt: 0.04562156506970079
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-節用中.txt: 0.045576969738304725
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-泰族訓.txt: 0.04554411480426645
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-說林下.txt: 0.045507207249543644
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-說林上.txt: 0.04548708761350483
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-二柄.txt: 0.045449666429444674
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-人閒訓.txt: 0.04535968189333929
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-飾邪.txt: 0.04532983239816246
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-脩務訓.txt: 0.04524729754797001
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-南面.txt: 0.04520670070046187
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-安危.txt: 0.04520670070046187
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-兼愛中.txt: 0.045165695069814604
+nonsimpsave/nonsimpsave copy/管子 - Guanzi-立政九敗解.txt: 0.04516078186097497
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-精神訓.txt: 0.04511574613262159
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-亡徵.txt: 0.04509659881649331
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-時則訓.txt: 0.04495772888666526
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-原道訓.txt: 0.04495772888666526
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-詭使.txt: 0.044872963883001334
+nonsimpsave/nonsimpsave copy/慎子 - Shenzi-民雜.txt: 0.0448600137111476
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-主術訓.txt: 0.04476090086145723
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-存韓.txt: 0.04464667661222701
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-繆稱訓.txt: 0.04450186534506954
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-喻老.txt: 0.044349559063677026
+nonsimpsave/nonsimpsave copy/荀子 - Xunzi-非十二子.txt: 0.044263428305938504
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-覽冥訓.txt: 0.044127408212780904
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-氾論訓.txt: 0.044127408212780904
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-墬形訓.txt: 0.044127408212780904
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-詮言訓.txt: 0.044127408212780904
+nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-俶真訓.txt: 0.044127408212780904
+nonsimpsave/nonsimpsave copy/慎子 - Shenzi-因循.txt: 0.04409027053001726
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-備蛾傅.txt: 0.04392761801329051
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-備高臨.txt: 0.04392761801329051
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-孤憤.txt: 0.04392141800655701
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-備城門.txt: 0.043413200905510936
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-內儲說下.txt: 0.0422996447977382
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-內儲說上.txt: 0.04228348526135641
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-初見秦.txt: 0.04194911916490434
+nonsimpsave/nonsimpsave copy/墨子 - Mozi-迎敵祠.txt: 0.04185936500822725
+nonsimpsave/nonsimpsave copy/燕丹子 - Yandanzi-卷下.txt: 0.040995692664997696
+nonsimpsave/nonsimpsave copy/燕丹子 - Yandanzi-卷上.txt: 0.04098163637715153
+nonsimpsave/nonsimpsave copy/燕丹子 - Yandanzi-卷中.txt: 0.040003963771715965
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-外儲說右下.txt: 0.039979766442726584
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-外儲說左下.txt: 0.039979766442726584
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-外儲說右上.txt: 0.039966121678364594
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-外儲說左上.txt: 0.039966121678364594
+nonsimpsave/nonsimpsave copy/鬻子 - Yuzi-禹政第六.txt: 0.039724527479716394
+nonsimpsave/nonsimpsave copy/韓非子 - Hanfeizi-姦劫弒臣.txt: 0.038260058959773975
+nonsimpsave/nonsimpsave copy/鬻子 - Yuzi-上禹政第六.txt: 0.037699373777775914
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-天權.txt: 0.03652708058263745
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二年.txt: 0.036210888880888914
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二年.txt: 0.0361793698237038
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十年.txt: 0.03615952992457584
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二年.txt: 0.03615853690611175
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十年.txt: 0.0361281446743246
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十年.txt: 0.03610740007068491
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二年.txt: 0.03609379939796913
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-兵政.txt: 0.036061163852409636
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十年.txt: 0.036042936348298873
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-學問.txt: 0.03559625295623313
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-天則.txt: 0.03548178002178171
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-備知.txt: 0.03540003759746548
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-世賢.txt: 0.035397800688420744
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-世兵.txt: 0.03533484731874425
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公二年.txt: 0.03530137205000186
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公三年.txt: 0.035274546235136046
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公二年.txt: 0.03525563771390709
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公十年.txt: 0.03525378166683772
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公三年.txt: 0.035245407620034606
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公三年.txt: 0.03522614595488297
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公十年.txt: 0.035208231808820475
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-泰鴻.txt: 0.03518958913181383
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公二年.txt: 0.03517898750036599
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公三年.txt: 0.035166280240950996
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-王鈇.txt: 0.03516004573012367
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十年.txt: 0.03513188971039699
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公二年.txt: 0.03511444089029495
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公二年.txt: 0.03508038961582119
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十年.txt: 0.035067601526139795
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十年.txt: 0.0350336862021041
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-能天.txt: 0.034945967322005035
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-夜行.txt: 0.03469198335075277
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公二年.txt: 0.03467733052560846
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-道端.txt: 0.034644283122248626
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公十年.txt: 0.0346322164376622
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-泰錄.txt: 0.0345719829749916
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公五年.txt: 0.03444123531296829
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公三年.txt: 0.03443216881055407
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公五年.txt: 0.03441411180371783
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公四年.txt: 0.03440633912788771
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公五年.txt: 0.034396180473648
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公三年.txt: 0.03438972622882741
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公四年.txt: 0.034379297915837215
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公七年.txt: 0.03436986960863382
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公四年.txt: 0.03436142092138048
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公六年.txt: 0.03435734093802405
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公七年.txt: 0.03434291422638195
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公五年.txt: 0.03434044073071109
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公六年.txt: 0.034330414999662794
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公七年.txt: 0.03432509390027217
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公三年.txt: 0.03431857498854217
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公八年.txt: 0.0343185637292956
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公六年.txt: 0.034312614113705286
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公四年.txt: 0.03430584972078226
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十二年.txt: 0.034301108615317474
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公八年.txt: 0.03429172878632686
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十二年.txt: 0.03427431456595425
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公八年.txt: 0.034273987979823464
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公七年.txt: 0.034269698479805856
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公三年.txt: 0.034258641591716044
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公六年.txt: 0.034257278995305625
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十二年.txt: 0.034256600759483474
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十年.txt: 0.03423016232695023
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公三年.txt: 0.03422701758292903
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公八年.txt: 0.03421883922539417
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十年.txt: 0.0342035340625033
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十二年.txt: 0.03420153575876103
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十年.txt: 0.034185929716557005
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公九年.txt: 0.03417445553733533
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公九年.txt: 0.03414795696686325
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十年.txt: 0.03413120426541054
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公九年.txt: 0.0341304382531956
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公九年.txt: 0.03407597844093027
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十三年.txt: 0.03404498683914559
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十三年.txt: 0.034018788065421406
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十三年.txt: 0.034001467300237516
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十三年.txt: 0.03394762155908795
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公二年.txt: 0.03394479823344882
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-度萬.txt: 0.03393133380824474
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十一年.txt: 0.03392272285063138
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公十年.txt: 0.03390247972845177
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十一年.txt: 0.033896805108897574
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十一年.txt: 0.03387966990666831
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公三年.txt: 0.03385235424652015
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十五年.txt: 0.033841931813554126
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十一年.txt: 0.033826399836741024
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公元年.txt: 0.03382437330005681
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十五年.txt: 0.033816198669515664
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十四年.txt: 0.03380882403866117
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十五年.txt: 0.033799185357838525
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公元年.txt: 0.03379868015892133
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十四年.txt: 0.033783166288233225
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公元年.txt: 0.03378169326155397
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十四年.txt: 0.033766202759769784
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十五年.txt: 0.03374629344022124
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公元年.txt: 0.03372888329271677
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十四年.txt: 0.03371346529189274
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-武靈王.txt: 0.03369373503540977
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十七年.txt: 0.03368228659507176
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十七年.txt: 0.033656915642435795
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公五年.txt: 0.033655855285275205
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十六年.txt: 0.03364599775151228
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十七年.txt: 0.033640141492457344
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公四年.txt: 0.033623290108716376
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十六年.txt: 0.033620708652010514
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公五年.txt: 0.033616215952133266
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-博選.txt: 0.03360712955774753
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十六年.txt: 0.033603988552159604
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公七年.txt: 0.033589251928937344
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十七年.txt: 0.03358799157537932
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公四年.txt: 0.033583765593512074
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公六年.txt: 0.03357755739291059
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十六年.txt: 0.03355200633090438
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公七年.txt: 0.033549847188372284
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公五年.txt: 0.03354974946784218
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公八年.txt: 0.0335413582576483
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公六年.txt: 0.03353819374763412
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十八年.txt: 0.033532127000096446
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公十二年.txt: 0.03352506183990311
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公四年.txt: 0.03351749102842324
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十八年.txt: 0.0335070936054869
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公八年.txt: 0.03350212163746218
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公五年.txt: 0.033493748004589596
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十八年.txt: 0.03349054235774289
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公十二年.txt: 0.03348588231573301
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公七年.txt: 0.033483772830770774
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公六年.txt: 0.03347218808297428
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公五年.txt: 0.03346419345824281
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公四年.txt: 0.033461650679314024
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十八年.txt: 0.033439084028606944
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公八年.txt: 0.03343632830430909
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公四年.txt: 0.033432180943938385
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公二年.txt: 0.03342934136865603
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公七年.txt: 0.03342810055674661
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十二年.txt: 0.03342018442381458
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公六年.txt: 0.033416573477692946
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公九年.txt: 0.033406782869596904
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公二年.txt: 0.0334005375830566
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公七年.txt: 0.03339871929770973
+nonsimpsave/nonsimpsave copy/鬻子 - Yuzi-慎誅魯周公第六.txt: 0.0333872748480037
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公六年.txt: 0.03338722257629672
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十年.txt: 0.03338240644119844
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公二年.txt: 0.03338149894083296
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公八年.txt: 0.0333808919567698
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公九年.txt: 0.03336801609064837
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十二年.txt: 0.03336482820276823
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十年.txt: 0.03335372370323634
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公八年.txt: 0.033351634893609115
+nonsimpsave/nonsimpsave copy/鬻子 - Yuzi-大道文王問第八.txt: 0.03335077894576105
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十二年.txt: 0.03333561332011893
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十年.txt: 0.033334764956610696
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公二年.txt: 0.033322334957209154
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公九年.txt: 0.03330300816185588
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公十三年.txt: 0.03328581405017566
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十年.txt: 0.033275848675389595
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-著希.txt: 0.03326407216563978
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公九年.txt: 0.03324823121159597
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公十三年.txt: 0.03324746639922116
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公九年.txt: 0.0332193212786808
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十三年.txt: 0.033183159142179466
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公十一年.txt: 0.03317152104274365
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公三年.txt: 0.03316985931988889
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公十一年.txt: 0.03313356660876772
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十三年.txt: 0.033128970490976795
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公五年.txt: 0.03311377383690788
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十三年.txt: 0.033100370274445436
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公十五年.txt: 0.03309596744768479
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公四年.txt: 0.03308275555686256
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公元年.txt: 0.03307954407743642
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十一年.txt: 0.03306991674284313
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公七年.txt: 0.03305033117097701
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公元年.txt: 0.03304190412788131
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公六年.txt: 0.033039190363571
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-哀公十四年.txt: 0.033027408755323555
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十一年.txt: 0.033016280085973564
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公十九年.txt: 0.03300580131787708
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公八年.txt: 0.03300470288707871
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十五年.txt: 0.03299505372168933
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公十二年.txt: 0.03298917588035684
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十一年.txt: 0.032987970485532356
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公十九年.txt: 0.03298192746982842
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公元年.txt: 0.032978780050792
+nonsimpsave/nonsimpsave copy/吳子 - Wu Zi-論將.txt: 0.03297112214697189
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公十九年.txt: 0.032966141961709314
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十四年.txt: 0.03296436756038865
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公十七年.txt: 0.03294660221527923
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十五年.txt: 0.032941779919794335
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-環流.txt: 0.03293131041682003
+nonsimpsave/nonsimpsave copy/鶡冠子 - He Guan Zi-近迭.txt: 0.03293131041682003
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公元年.txt: 0.03292558490942911
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公十九年.txt: 0.032917059696512777
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十五年.txt: 0.03291366136335899
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公十六年.txt: 0.03291263729180583
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十四年.txt: 0.032911242018812764
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公元年.txt: 0.03289750776865627
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十四年.txt: 0.032883201523327174
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公九年.txt: 0.032876459773041496
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十七年.txt: 0.03284704453528809
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十六年.txt: 0.03281338627285283
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-文公十八年.txt: 0.0328060280214551
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十七年.txt: 0.03279448331005566
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十七年.txt: 0.03276673994251404
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公十三年.txt: 0.03276114131320071
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十六年.txt: 0.032760986202579334
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十六年.txt: 0.03273332768990362
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-桓公十八年.txt: 0.032707735478533256
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-宣公十八年.txt: 0.03265583912643488
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公十一年.txt: 0.03265215070653547
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十二年.txt: 0.03264111389827057
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-成公十八年.txt: 0.03262844584942141
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十二年.txt: 0.03261802214822668
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十二年.txt: 0.032602753162816966
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公二年.txt: 0.03259787322571264
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公十五年.txt: 0.03258008304666662
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公三年.txt: 0.032573339955618064
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公元年.txt: 0.032564415406079204
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公二年.txt: 0.03255604704090662
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十二年.txt: 0.03255527386285977
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公十年.txt: 0.032554349566232356
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-定公十四年.txt: 0.032550539152131415
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公三年.txt: 0.03254669092869611
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公三年.txt: 0.032529074622075146
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公十年.txt: 0.032512690479004326
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公二年.txt: 0.032485943340317805
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公三年.txt: 0.03247432095429199
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公五年.txt: 0.032474153434161254
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公四年.txt: 0.03244489651900618
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公十年.txt: 0.03244286588781405
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公二年.txt: 0.03242690610557739
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十三年.txt: 0.03242017330607829
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公七年.txt: 0.03241430998352736
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公三十年.txt: 0.03240639239622811
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公六年.txt: 0.03240379985728816
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十三年.txt: 0.03239754697447041
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公二年.txt: 0.032395760027703516
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公十年.txt: 0.03238406277327926
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公三十年.txt: 0.03238379488571884
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十三年.txt: 0.032382585382626124
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公八年.txt: 0.0323712621500634
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公三十年.txt: 0.032368852329662946
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公十年.txt: 0.03235303986757417
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十三年.txt: 0.03233606012345944
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公三十年.txt: 0.03232238615287657
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十一年.txt: 0.0323145395245316
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十一年.txt: 0.0322921334888206
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公二年.txt: 0.03228850063304796
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十一年.txt: 0.03227731739942473
+nonsimpsave/nonsimpsave copy/吳子 - Wu Zi-治兵.txt: 0.03226059588856187
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公二年.txt: 0.0322593396119525
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公九年.txt: 0.032250235339508874
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十五年.txt: 0.03224467953486227
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公十年.txt: 0.03224098546395402
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公二年.txt: 0.03224006683948531
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十一年.txt: 0.03223124374992125
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十五年.txt: 0.03222241840237809
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十四年.txt: 0.03221603792166775
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公十年.txt: 0.03221195287634711
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十五年.txt: 0.032207698021092884
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十四年.txt: 0.032193836016614935
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公十年.txt: 0.032192764859816564
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-襄公二年.txt: 0.0321801853953681
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十四年.txt: 0.03217915475519852
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十五年.txt: 0.03216192143746491
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十四年.txt: 0.032133499596435695
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-襄公十年.txt: 0.03213314611300624
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十七年.txt: 0.03210649877437304
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十七年.txt: 0.03208452241495662
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十六年.txt: 0.03207506392454423
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十七年.txt: 0.0320699901288306
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十六年.txt: 0.032053152007807714
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十六年.txt: 0.03203866228728869
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公十一年.txt: 0.03203841984632016
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公二年.txt: 0.032027023972988476
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十七年.txt: 0.032024797386408545
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十六年.txt: 0.03199360167036229
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公十年.txt: 0.03198574417690166
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十八年.txt: 0.03197636431270031
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-隱公元年.txt: 0.03195552693632408
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十八年.txt: 0.03195465391590247
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十八年.txt: 0.03194029730463762
+nonsimpsave/nonsimpsave copy/吳子 - Wu Zi-應變.txt: 0.03191461270194454
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十八年.txt: 0.03189564987238258
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公五年.txt: 0.03181097819460442
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公三年.txt: 0.0318026808146909
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公五年.txt: 0.031786155427001556
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公四年.txt: 0.03177904196650063
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公五年.txt: 0.031769744820452916
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公三年.txt: 0.03176383789097922
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公四年.txt: 0.031754293827256884
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公七年.txt: 0.03174566490743144
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公四年.txt: 0.031737932494545935
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公六年.txt: 0.03173419839096862
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公七年.txt: 0.03172099460364706
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公五年.txt: 0.031718730766168726
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公六年.txt: 0.03170955478948646
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公七年.txt: 0.03170468466262303
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公三年.txt: 0.03169871821201751
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公八年.txt: 0.031698707906936574
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公六年.txt: 0.03169326247902083
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公四年.txt: 0.03168707128906147
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十二年.txt: 0.03168273191682634
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公八年.txt: 0.03167414683086082
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十二年.txt: 0.03165820792929965
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公八年.txt: 0.031657909009177435
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公七年.txt: 0.03165398287729395
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公三年.txt: 0.03164386256833326
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公六年.txt: 0.03164261538516904
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十二年.txt: 0.03164199459608009
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公二十年.txt: 0.031617795244495664
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公三年.txt: 0.031614916796253986
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公八年.txt: 0.03160743094543383
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公二十年.txt: 0.03159342162476296
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十二年.txt: 0.03159159249885334
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公二十年.txt: 0.031577307575731024
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公九年.txt: 0.03156680462278179
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公九年.txt: 0.03154254864600867
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公二十年.txt: 0.03152721347556403
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公九年.txt: 0.03152651227466566
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公二十九年.txt: 0.031518979589563276
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公二十九年.txt: 0.03149818695512454
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公二十九年.txt: 0.03148443657968401
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公九年.txt: 0.03147665914900641
+nonsimpsave/nonsimpsave copy/吳子 - Wu Zi-勵士.txt: 0.03145212046739431
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十三年.txt: 0.031448288129777686
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-文公二年.txt: 0.031448167372316996
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公二十九年.txt: 0.03144167111471495
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十三年.txt: 0.03142430412613239
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公三年.txt: 0.03142341759538621
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十三年.txt: 0.031408447337191725
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-哀公二年.txt: 0.03140597360545887
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-文公十年.txt: 0.03140426136960855
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公三年.txt: 0.03139653628480867
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公三年.txt: 0.03137876808092153
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-哀公十年.txt: 0.03136224384533171
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十三年.txt: 0.03135915133404848
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-隱公二年.txt: 0.03135656650984371
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十一年.txt: 0.03133635575483112
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-桓公二年.txt: 0.03133527044796708
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-襄公三年.txt: 0.031323550689705326
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-隱公十年.txt: 0.031317822187581626
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十一年.txt: 0.03131262674323967
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十一年.txt: 0.03129693832809488
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-桓公十年.txt: 0.03129183495741424
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-宣公二年.txt: 0.03127574451614984
+nonsimpsave/nonsimpsave copy/鬻子 - Yuzi-湯政天下至紂第七.txt: 0.031274562846180555
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公三年.txt: 0.03127192859130972
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十五年.txt: 0.031262385854105304
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十一年.txt: 0.03124816469454534
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公元年.txt: 0.031246309174133527
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-成公二年.txt: 0.03124434654872596
+nonsimpsave/nonsimpsave copy/尉繚子 - Wei Liao Zi-天官.txt: 0.031240571540769913
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十五年.txt: 0.031238824357983946
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-宣公十年.txt: 0.031232555751182587
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十四年.txt: 0.031232071992561554
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十五年.txt: 0.031223246557038526
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公元年.txt: 0.03122278398147699
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十四年.txt: 0.031208578918400676
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公元年.txt: 0.031207230152734963
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-成公十年.txt: 0.031201287546944456
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十四年.txt: 0.031193046298472988
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十五年.txt: 0.031174816107859965
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公元年.txt: 0.031158874079240492
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十四年.txt: 0.03114475602735216
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十七年.txt: 0.031116205602386454
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十七年.txt: 0.031092972832870883
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公五年.txt: 0.03109200182921864
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十六年.txt: 0.03108297492543803
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十七年.txt: 0.031077612102205884
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公四年.txt: 0.03106218044324124
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十六年.txt: 0.031059816455691884
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公五年.txt: 0.031055702222113568
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公三十二年.txt: 0.031048379637072854
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十六年.txt: 0.031044504788778876
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公七年.txt: 0.031031009353114467
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十七年.txt: 0.03102985514525532
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公三十二年.txt: 0.031028503928253126
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公四年.txt: 0.031025985063027853
+nonsimpsave/nonsimpsave copy/吳子 - Wu Zi-圖國.txt: 0.03102112323974832
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公六年.txt: 0.031020299675540333
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公三十二年.txt: 0.031015359284743173
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十六年.txt: 0.03099690006373321
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公七年.txt: 0.03099492270397204
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公五年.txt: 0.03099483321066123
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公八年.txt: 0.030987148442057716
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公六年.txt: 0.030984250333687357
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十八年.txt: 0.030978694290301076
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公十二年.txt: 0.03097222384847946
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公四年.txt: 0.030965290279729867
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十八年.txt: 0.03095576795172618
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公八年.txt: 0.030951214420204577
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公五年.txt: 0.030943545465232033
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十八年.txt: 0.03094060957441128
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公十二年.txt: 0.030936341663126938
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公七年.txt: 0.030934409680900058
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公六年.txt: 0.030923799675976412
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公五年.txt: 0.030916477664839688
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公四年.txt: 0.03091414880859036
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-襄公十八年.txt: 0.0308934804772415
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公八年.txt: 0.03089095654123603
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公四年.txt: 0.030887158011683784
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公七年.txt: 0.03088342081033516
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公十二年.txt: 0.030876170439513725
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公二十年.txt: 0.030875878458775527
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-定公二年.txt: 0.030872937929907845
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公六年.txt: 0.030872863166179546
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公九年.txt: 0.03086389588056193
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公三十三年.txt: 0.030858045562586072
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公七年.txt: 0.030856510348261687
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公六年.txt: 0.030845980269068176
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公八年.txt: 0.030840181886843062
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-定公十年.txt: 0.030831394274570885
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公九年.txt: 0.03082838845209954
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公十二年.txt: 0.030825468541233823
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公八年.txt: 0.030813384198135216
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公十二年.txt: 0.03079870915518413
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公九年.txt: 0.03076884373084254
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-僖公三十一年.txt: 0.030766915527488146
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公十三年.txt: 0.030753094096537086
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-昭公三十一年.txt: 0.030747575138342642
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-莊公三十一年.txt: 0.030734784156210188
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公九年.txt: 0.0307186678645841
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公十三年.txt: 0.030717967278926908
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-襄公三十一年.txt: 0.030694997490745005
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公九年.txt: 0.03069218541640368
+nonsimpsave/nonsimpsave copy/春秋公羊傳 - Gongyang Zhuan-閔公二年.txt: 0.03066639900948859
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公十三年.txt: 0.03065905888114986
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公五年.txt: 0.03065558943097099
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公十一年.txt: 0.03064839753637943
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-文公三年.txt: 0.030647245867399135
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-隱公三年.txt: 0.03064687526970539
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公五年.txt: 0.030630629343935803
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公四年.txt: 0.030623476999864608
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公五年.txt: 0.030614129347975742
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公十一年.txt: 0.03061362785371639
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公十三年.txt: 0.030609417326667106
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-哀公三年.txt: 0.03060819051456931
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公四年.txt: 0.030598595205863208
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公五年.txt: 0.03059549548817868
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公七年.txt: 0.030589920277363705
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公十三年.txt: 0.030583216187712224
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公四年.txt: 0.03058214689610131
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公十五年.txt: 0.03057918263301792
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公六年.txt: 0.030578393096290787
+nonsimpsave/nonsimpsave copy/穆天子傳 - Mutianzi Zhuan-卷一.txt: 0.03057562254931259
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公四年.txt: 0.030567078762612717
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公七年.txt: 0.030565120122809
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公元年.txt: 0.03056413659662932
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-襄公五年.txt: 0.030562844495069987
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公十一年.txt: 0.030555316563210557
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公六年.txt: 0.03055362094476026
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公十四年.txt: 0.030550811294643182
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公七年.txt: 0.03054872570881441
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公十五年.txt: 0.03054464772038473
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-桓公三年.txt: 0.0305427286295373
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公八年.txt: 0.030542718271681854
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公七年.txt: 0.03053737314054943
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公六年.txt: 0.03053724501756371
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-襄公四年.txt: 0.03053102233842191
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公元年.txt: 0.030529652578651884
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公六年.txt: 0.030527166312170027
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公十二年.txt: 0.030526660989358655
+nonsimpsave/nonsimpsave copy/穆天子傳 - Mutianzi Zhuan-卷四.txt: 0.030521054672109603
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公八年.txt: 0.030518032651712854
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-哀公十四年.txt: 0.03051637230907029
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-宣公十一年.txt: 0.030506176422130292
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-昭公十二年.txt: 0.030502014251578998
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公八年.txt: 0.03050171385048201
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-襄公七年.txt: 0.03049776830090627
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-僖公十九年.txt: 0.030496575883607432
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公八年.txt: 0.030495569508255094
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-宣公三年.txt: 0.030487598230677003
+nonsimpsave/nonsimpsave copy/鬼谷子 - Gui Gu Zi-中經.txt: 0.030487298881520714
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公十五年.txt: 0.030486728967566466
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-襄公六年.txt: 0.030486344944196758
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-莊公十二年.txt: 0.030485721119539854
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-定公十二年.txt: 0.030481343672347408
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-成公十一年.txt: 0.030480239283131712
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-昭公十九年.txt: 0.030474702624316022
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公元年.txt: 0.030471818923945987
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-僖公二十年.txt: 0.03046140466668835
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-莊公十九年.txt: 0.030460239696085245
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-桓公十四年.txt: 0.03045861395106074
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-成公三年.txt: 0.03045851244912382
+nonsimpsave/nonsimpsave copy/春秋穀梁傳 - Guliang Zhuan-襄公八年.txt: 0.03045099094780538
+nonsimpsave/nonsimpsave copy/春秋左傳 - Chun Qiu Zuo Zhuan-文公十七年.txt: 0.030442336834479895

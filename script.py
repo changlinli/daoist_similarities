@@ -1,14 +1,59 @@
 import csv
 import glob
 import math
+import re
 
+from collections import Counter
+
+import itertools
 from itertools import islice
 
-filename = "data/daoist/Huainanzi_淮南子_chu_zhen_xun_俶真訓.txt.json.csv"
-
-characters_to_frequency = {}
+filename = "nonsimpsave/nonsimpsave copy/淮南子 - Huainanzi-俶真訓.txt"
 
 number_of_texts_to_compare = 1000
+
+def convert_to_ngram(string, n):
+    return list(zip(string, string[(n - 1):]))
+
+def group_by_frequency(listOfElems):
+    result = { elem:len(list(repetitions)) for (elem, repetitions) in itertools.groupby(listOfElems) }
+    return result
+
+def group_ngrams_by_frequency(string, n):
+    return group_by_frequency(convert_to_ngrams(string, n))
+
+def retrieve_ngrams_to_frequency(input_file, n):
+    ngrams_to_frequency = Counter()
+    with open(input_file, newline='') as textfile:
+        reader = textfile.readlines()
+        for row in reader:
+            # Split by punctuation so that we treat each punctuation mark as a
+            # separate clause
+            split_by_punctuation = re.split('。|，|、|；|：|《|》|？|！|「|」', row)
+            for clause in split_by_punctuation:
+                partial_ngrams_to_frequency = Counter(retrieve_ngrams_to_frequency_str(clause, n))
+                ngrams_to_frequency = ngrams_to_frequency + partial_ngrams_to_frequency
+    return ngrams_to_frequency
+
+def retrieve_ngrams_to_frequency_str(input_string, n):
+    ngrams_to_frequency = {}
+    string_length = len(input_string)
+    for idx, char in enumerate(input_string):
+        if idx > string_length - n:
+            pass
+        else:
+            current_ngram = ""
+            for i in range(n):
+                if i == 0:
+                    current_ngram = str(char)
+                else:
+                    current_ngram = current_ngram + input_string[idx + i]
+            if current_ngram in ngrams_to_frequency:
+                old_absolute_frequency = ngrams_to_frequency[current_ngram]
+                ngrams_to_frequency[current_ngram] = old_absolute_frequency + 1
+            else:
+                ngrams_to_frequency[current_ngram] = 1
+    return ngrams_to_frequency
 
 def retrieve_characters_to_frequency(input_file):
     characters_to_frequency = {}
@@ -26,15 +71,7 @@ def retrieve_characters_to_frequency(input_file):
             characters_to_frequency.update(new_entry)
     return characters_to_frequency
 
-with open(filename, newline='') as csvfile:
-    reader = csv.reader(csvfile, delimiter=',')
-    # Drop the first row which is just column headers
-    next(reader)
-    for row in reader:
-        character = row[0]
-        absolute_frequency = row[1]
-        new_entry = {character : int(absolute_frequency)}
-        characters_to_frequency.update(new_entry)
+characters_to_frequency = retrieve_ngrams_to_frequency(filename, 2)
 
 total_number_of_characters = sum(characters_to_frequency.values())
 
@@ -49,11 +86,13 @@ def normalize_as_term_frequencies(characters_to_frequency):
     return term_frequency_scores
 
 def retrieve_term_frequences_from_file(input_file):
-    return normalize_as_term_frequencies(retrieve_characters_to_frequency(input_file))
+    return normalize_as_term_frequencies(retrieve_ngrams_to_frequency_str(input_file, 2))
 
-daoist_texts = glob.glob("data/daoist/*.json.csv")
+daoist_texts = [filename, "nonsimpsave/nonsimpsave copy/管子 - Guanzi-內業.txt",
+                "nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-齊物論.txt",
+                "nonsimpsave/nonsimpsave copy/道德經.txt"]
 
-general_texts = glob.glob("data/general/*.json.csv")
+general_texts = glob.glob("nonsimpsave/nonsimpsave copy/*")
 
 daoist_text_term_frequencies = {}
 
@@ -172,7 +211,7 @@ with open('huainanzi_chuzhenxun_similarities.txt', 'w') as fp:
 # Guanzi
 #######
 
-guanzi_file_name = "data/daoist/Guanzi_管子_Neiye_內業.txt.json.csv"
+guanzi_file_name = "nonsimpsave/nonsimpsave copy/管子 - Guanzi-內業.txt"
 
 guanzi_tf_idf_score = tf_idf_scores[guanzi_file_name]
 
@@ -199,9 +238,9 @@ with open('guanzi_neiye_smilarities.txt', 'w') as fp:
 # Zhuangzi
 #######
 
-benchmark_file_name = "data/daoist/Zhuangzi_莊子_Qiwulun_齊物論.txt.json.csv"
+zhuangzi_file_name = "nonsimpsave/nonsimpsave copy/莊子 - Zhuangzi-齊物論.txt"
 
-benchmark_tf_idf_score = tf_idf_scores[benchmark_file_name]
+benchmark_tf_idf_score = tf_idf_scores[zhuangzi_file_name]
 
 similarities_to_benchmark = {}
 
@@ -226,9 +265,9 @@ with open('zhuangzi_qiwulun_smilarities.txt', 'w') as fp:
 # Daodejing
 #######
 
-benchmark_file_name = "data/daoist/Laozi_老子_Daodejing_道德經.txt.json.csv"
+daodejing_file_name = "nonsimpsave/nonsimpsave copy/道德經.txt"
 
-benchmark_tf_idf_score = tf_idf_scores[benchmark_file_name]
+benchmark_tf_idf_score = tf_idf_scores[daodejing_file_name]
 
 similarities_to_benchmark = {}
 
@@ -248,30 +287,3 @@ for filename, similarity_score in top_25_similar_to_benchmark:
 with open('daodejing_smilarities.txt', 'w') as fp_daodejing:
     for filename, similarity_score in top_25_similar_to_benchmark:
         fp_daodejing.write(f'{filename}: {similarity_score}\n')
-
-#distinct_characters = []
-
-#distinct_characters = distinct_characters + list(characters_to_frequency.keys())
-
-#documents_to_words = {}
-
-#documents_to_words.update({filename: distinct_characters})
-
-
-#words_to_documents = {}
-
-#for document, words in documents_to_words.items():
-    #for word in words:
-        #currently_put = words_to_documents.get(word, [])
-        #currently_put.append(document)
-        #words_to_documents[word] = currently_put
-
-
-#document_frequency_scores = {}
-
-#for word, document in words_to_documents.items():
-    #document_frequency_scores[word] = len(document)
-
-#print(document_frequency_scores)
-
-#document_frequency_scores = distinct_characters_to
